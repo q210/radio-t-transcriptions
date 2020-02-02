@@ -1,0 +1,6975 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "о'кей О'кей пирите налетай подешевело Я так понимаю тех кто уже какие-то парома получают второй раз они дают Но это для новеньких Хотя Я толком не мнение как-то разделились Бога некоторые говорят Муж Куда дели мощное 1 Я удивляюсь люди А зачем вообще вам включаемые слова говорим Если вы их всё равно не слышите не ковырять вопрос нашей жизни Да зачем мы говорим слова если вы не слушаете философские вопросы Ну что Давайте пойдем по нашим телом после того как из рекламы мы разобрались и всё всем понятно у нас начнём с праздника 36 36 лет назад впервые появился появился не появился на первый раз его представили общественности помнишь это Бог как мы с тобой ходили",
+          "confidence": 0.8064001202583313,
+          "words": [
+            {
+              "startTime": "0s",
+              "endTime": "2.700s",
+              "word": "о'кей"
+            },
+            {
+              "startTime": "2.700s",
+              "endTime": "3.300s",
+              "word": "О'кей"
+            },
+            {
+              "startTime": "3.300s",
+              "endTime": "4s",
+              "word": "пирите"
+            },
+            {
+              "startTime": "4s",
+              "endTime": "4.600s",
+              "word": "налетай"
+            },
+            {
+              "startTime": "4.600s",
+              "endTime": "4.800s",
+              "word": "подешевело"
+            },
+            {
+              "startTime": "4.800s",
+              "endTime": "5.600s",
+              "word": "Я"
+            },
+            {
+              "startTime": "5.600s",
+              "endTime": "5.800s",
+              "word": "так"
+            },
+            {
+              "startTime": "5.800s",
+              "endTime": "6.100s",
+              "word": "понимаю"
+            },
+            {
+              "startTime": "6.100s",
+              "endTime": "6.300s",
+              "word": "тех"
+            },
+            {
+              "startTime": "6.300s",
+              "endTime": "6.400s",
+              "word": "кто"
+            },
+            {
+              "startTime": "6.400s",
+              "endTime": "6.500s",
+              "word": "уже"
+            },
+            {
+              "startTime": "6.500s",
+              "endTime": "6.900s",
+              "word": "какие-то"
+            },
+            {
+              "startTime": "6.900s",
+              "endTime": "7.400s",
+              "word": "парома"
+            },
+            {
+              "startTime": "7.400s",
+              "endTime": "8s",
+              "word": "получают"
+            },
+            {
+              "startTime": "8s",
+              "endTime": "8.300s",
+              "word": "второй"
+            },
+            {
+              "startTime": "8.300s",
+              "endTime": "8.500s",
+              "word": "раз"
+            },
+            {
+              "startTime": "8.500s",
+              "endTime": "8.600s",
+              "word": "они"
+            },
+            {
+              "startTime": "8.600s",
+              "endTime": "9s",
+              "word": "дают"
+            },
+            {
+              "startTime": "9s",
+              "endTime": "9.100s",
+              "word": "Но"
+            },
+            {
+              "startTime": "9.100s",
+              "endTime": "9.200s",
+              "word": "это"
+            },
+            {
+              "startTime": "9.200s",
+              "endTime": "9.400s",
+              "word": "для"
+            },
+            {
+              "startTime": "9.400s",
+              "endTime": "9.500s",
+              "word": "новеньких"
+            },
+            {
+              "startTime": "9.500s",
+              "endTime": "10.700s",
+              "word": "Хотя"
+            },
+            {
+              "startTime": "10.700s",
+              "endTime": "11.100s",
+              "word": "Я"
+            },
+            {
+              "startTime": "11.100s",
+              "endTime": "11.700s",
+              "word": "толком"
+            },
+            {
+              "startTime": "11.700s",
+              "endTime": "11.900s",
+              "word": "не"
+            },
+            {
+              "startTime": "11.900s",
+              "endTime": "17s",
+              "word": "мнение"
+            },
+            {
+              "startTime": "17s",
+              "endTime": "17.300s",
+              "word": "как-то"
+            },
+            {
+              "startTime": "17.300s",
+              "endTime": "17.800s",
+              "word": "разделились"
+            },
+            {
+              "startTime": "17.800s",
+              "endTime": "18.200s",
+              "word": "Бога"
+            },
+            {
+              "startTime": "18.200s",
+              "endTime": "18.700s",
+              "word": "некоторые"
+            },
+            {
+              "startTime": "18.700s",
+              "endTime": "19s",
+              "word": "говорят"
+            },
+            {
+              "startTime": "19s",
+              "endTime": "19.400s",
+              "word": "Муж"
+            },
+            {
+              "startTime": "19.400s",
+              "endTime": "19.700s",
+              "word": "Куда"
+            },
+            {
+              "startTime": "19.700s",
+              "endTime": "19.900s",
+              "word": "дели"
+            },
+            {
+              "startTime": "19.900s",
+              "endTime": "20.300s",
+              "word": "мощное"
+            },
+            {
+              "startTime": "20.300s",
+              "endTime": "20.600s",
+              "word": "1"
+            },
+            {
+              "startTime": "20.600s",
+              "endTime": "21.900s",
+              "word": "Я"
+            },
+            {
+              "startTime": "21.900s",
+              "endTime": "22.400s",
+              "word": "удивляюсь"
+            },
+            {
+              "startTime": "22.400s",
+              "endTime": "22.700s",
+              "word": "люди"
+            },
+            {
+              "startTime": "22.700s",
+              "endTime": "22.800s",
+              "word": "А"
+            },
+            {
+              "startTime": "22.800s",
+              "endTime": "23.200s",
+              "word": "зачем"
+            },
+            {
+              "startTime": "23.200s",
+              "endTime": "23.500s",
+              "word": "вообще"
+            },
+            {
+              "startTime": "23.500s",
+              "endTime": "23.700s",
+              "word": "вам"
+            },
+            {
+              "startTime": "23.700s",
+              "endTime": "24.800s",
+              "word": "включаемые"
+            },
+            {
+              "startTime": "24.800s",
+              "endTime": "25.300s",
+              "word": "слова"
+            },
+            {
+              "startTime": "25.300s",
+              "endTime": "25.700s",
+              "word": "говорим"
+            },
+            {
+              "startTime": "25.700s",
+              "endTime": "26s",
+              "word": "Если"
+            },
+            {
+              "startTime": "26s",
+              "endTime": "26.100s",
+              "word": "вы"
+            },
+            {
+              "startTime": "26.100s",
+              "endTime": "26.200s",
+              "word": "их"
+            },
+            {
+              "startTime": "26.200s",
+              "endTime": "26.400s",
+              "word": "всё"
+            },
+            {
+              "startTime": "26.400s",
+              "endTime": "26.400s",
+              "word": "равно"
+            },
+            {
+              "startTime": "26.400s",
+              "endTime": "26.600s",
+              "word": "не"
+            },
+            {
+              "startTime": "26.600s",
+              "endTime": "27.100s",
+              "word": "слышите"
+            },
+            {
+              "startTime": "27.100s",
+              "endTime": "28.100s",
+              "word": "не"
+            },
+            {
+              "startTime": "28.100s",
+              "endTime": "28.600s",
+              "word": "ковырять"
+            },
+            {
+              "startTime": "28.600s",
+              "endTime": "29.800s",
+              "word": "вопрос"
+            },
+            {
+              "startTime": "29.800s",
+              "endTime": "30.100s",
+              "word": "нашей"
+            },
+            {
+              "startTime": "30.100s",
+              "endTime": "30.400s",
+              "word": "жизни"
+            },
+            {
+              "startTime": "30.400s",
+              "endTime": "30.700s",
+              "word": "Да"
+            },
+            {
+              "startTime": "30.700s",
+              "endTime": "31.500s",
+              "word": "зачем"
+            },
+            {
+              "startTime": "31.500s",
+              "endTime": "31.600s",
+              "word": "мы"
+            },
+            {
+              "startTime": "31.600s",
+              "endTime": "31.700s",
+              "word": "говорим"
+            },
+            {
+              "startTime": "31.700s",
+              "endTime": "32.400s",
+              "word": "слова"
+            },
+            {
+              "startTime": "32.400s",
+              "endTime": "32.600s",
+              "word": "если"
+            },
+            {
+              "startTime": "32.600s",
+              "endTime": "32.700s",
+              "word": "вы"
+            },
+            {
+              "startTime": "32.700s",
+              "endTime": "32.900s",
+              "word": "не"
+            },
+            {
+              "startTime": "32.900s",
+              "endTime": "33.200s",
+              "word": "слушаете"
+            },
+            {
+              "startTime": "33.200s",
+              "endTime": "35.700s",
+              "word": "философские"
+            },
+            {
+              "startTime": "35.700s",
+              "endTime": "36.500s",
+              "word": "вопросы"
+            },
+            {
+              "startTime": "36.500s",
+              "endTime": "38.200s",
+              "word": "Ну"
+            },
+            {
+              "startTime": "38.200s",
+              "endTime": "38.400s",
+              "word": "что"
+            },
+            {
+              "startTime": "38.400s",
+              "endTime": "38.800s",
+              "word": "Давайте"
+            },
+            {
+              "startTime": "38.800s",
+              "endTime": "39.200s",
+              "word": "пойдем"
+            },
+            {
+              "startTime": "39.200s",
+              "endTime": "39.300s",
+              "word": "по"
+            },
+            {
+              "startTime": "39.300s",
+              "endTime": "39.600s",
+              "word": "нашим"
+            },
+            {
+              "startTime": "39.600s",
+              "endTime": "39.800s",
+              "word": "телом"
+            },
+            {
+              "startTime": "39.800s",
+              "endTime": "40.100s",
+              "word": "после"
+            },
+            {
+              "startTime": "40.100s",
+              "endTime": "40.300s",
+              "word": "того"
+            },
+            {
+              "startTime": "40.300s",
+              "endTime": "40.500s",
+              "word": "как"
+            },
+            {
+              "startTime": "40.500s",
+              "endTime": "40.600s",
+              "word": "из"
+            },
+            {
+              "startTime": "40.600s",
+              "endTime": "40.900s",
+              "word": "рекламы"
+            },
+            {
+              "startTime": "40.900s",
+              "endTime": "41.500s",
+              "word": "мы"
+            },
+            {
+              "startTime": "41.500s",
+              "endTime": "42.100s",
+              "word": "разобрались"
+            },
+            {
+              "startTime": "42.100s",
+              "endTime": "42.200s",
+              "word": "и"
+            },
+            {
+              "startTime": "42.200s",
+              "endTime": "42.600s",
+              "word": "всё"
+            },
+            {
+              "startTime": "42.600s",
+              "endTime": "42.900s",
+              "word": "всем"
+            },
+            {
+              "startTime": "42.900s",
+              "endTime": "43.400s",
+              "word": "понятно"
+            },
+            {
+              "startTime": "43.400s",
+              "endTime": "43.600s",
+              "word": "у"
+            },
+            {
+              "startTime": "43.600s",
+              "endTime": "43.700s",
+              "word": "нас"
+            },
+            {
+              "startTime": "43.700s",
+              "endTime": "44.800s",
+              "word": "начнём"
+            },
+            {
+              "startTime": "44.800s",
+              "endTime": "44.900s",
+              "word": "с"
+            },
+            {
+              "startTime": "44.900s",
+              "endTime": "45.400s",
+              "word": "праздника"
+            },
+            {
+              "startTime": "45.400s",
+              "endTime": "45.900s",
+              "word": "36"
+            },
+            {
+              "startTime": "45.900s",
+              "endTime": "47.300s",
+              "word": "36"
+            },
+            {
+              "startTime": "47.300s",
+              "endTime": "47.600s",
+              "word": "лет"
+            },
+            {
+              "startTime": "47.600s",
+              "endTime": "47.900s",
+              "word": "назад"
+            },
+            {
+              "startTime": "47.900s",
+              "endTime": "49.100s",
+              "word": "впервые"
+            },
+            {
+              "startTime": "49.100s",
+              "endTime": "50.300s",
+              "word": "появился"
+            },
+            {
+              "startTime": "50.300s",
+              "endTime": "52.100s",
+              "word": "появился"
+            },
+            {
+              "startTime": "52.100s",
+              "endTime": "52.200s",
+              "word": "не"
+            },
+            {
+              "startTime": "52.200s",
+              "endTime": "52.600s",
+              "word": "появился"
+            },
+            {
+              "startTime": "52.600s",
+              "endTime": "52.800s",
+              "word": "на"
+            },
+            {
+              "startTime": "52.800s",
+              "endTime": "53s",
+              "word": "первый"
+            },
+            {
+              "startTime": "53s",
+              "endTime": "53.300s",
+              "word": "раз"
+            },
+            {
+              "startTime": "53.300s",
+              "endTime": "53.500s",
+              "word": "его"
+            },
+            {
+              "startTime": "53.500s",
+              "endTime": "54.300s",
+              "word": "представили"
+            },
+            {
+              "startTime": "54.300s",
+              "endTime": "54.600s",
+              "word": "общественности"
+            },
+            {
+              "startTime": "54.600s",
+              "endTime": "57.900s",
+              "word": "помнишь"
+            },
+            {
+              "startTime": "57.900s",
+              "endTime": "58.100s",
+              "word": "это"
+            },
+            {
+              "startTime": "58.100s",
+              "endTime": "58.400s",
+              "word": "Бог"
+            },
+            {
+              "startTime": "58.400s",
+              "endTime": "58.800s",
+              "word": "как"
+            },
+            {
+              "startTime": "58.800s",
+              "endTime": "59.100s",
+              "word": "мы"
+            },
+            {
+              "startTime": "59.100s",
+              "endTime": "59.200s",
+              "word": "с"
+            },
+            {
+              "startTime": "59.200s",
+              "endTime": "59.200s",
+              "word": "тобой"
+            },
+            {
+              "startTime": "59.200s",
+              "endTime": "59.600s",
+              "word": "ходили"
+            }
+          ]
+        }
+      ],
+      "languageCode": "ru-ru"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": "батут Стив Джобс Макеева которого на столе Mac стоит как сейчас дела было помню езжай обратно паяльник нужен был Напомни Расскажите я эту статью не читал Какой паяльник он красивенький так вот на картинках нарисован Кто кто к кому паять Ну макинтоши в смысле первые компьютеры Apple не эти которые ты сейчас видишь на картинке а ты тоже Антош Да этот компьютер называется не Apple Макинтош первые компьютеры Apple Это был конструктор для сборки с помощью паяльника он назывался этого надо и он был очень красивенький Обратите внимание что у это компьютер Apple этапом один из первых компьютеров у которого появился вот этот цветов и логотипов такой яблочко А если раньше их не было-то",
+          "confidence": 0.8116391897201538,
+          "words": [
+            {
+              "startTime": "59.900s",
+              "endTime": "60.600s",
+              "word": "батут"
+            },
+            {
+              "startTime": "60.600s",
+              "endTime": "61.300s",
+              "word": "Стив"
+            },
+            {
+              "startTime": "61.300s",
+              "endTime": "61.500s",
+              "word": "Джобс"
+            },
+            {
+              "startTime": "61.500s",
+              "endTime": "62s",
+              "word": "Макеева"
+            },
+            {
+              "startTime": "62s",
+              "endTime": "62.400s",
+              "word": "которого"
+            },
+            {
+              "startTime": "62.400s",
+              "endTime": "64.100s",
+              "word": "на"
+            },
+            {
+              "startTime": "64.100s",
+              "endTime": "64.600s",
+              "word": "столе"
+            },
+            {
+              "startTime": "64.600s",
+              "endTime": "64.700s",
+              "word": "Mac"
+            },
+            {
+              "startTime": "64.700s",
+              "endTime": "65.300s",
+              "word": "стоит"
+            },
+            {
+              "startTime": "65.300s",
+              "endTime": "66.900s",
+              "word": "как"
+            },
+            {
+              "startTime": "66.900s",
+              "endTime": "67.200s",
+              "word": "сейчас"
+            },
+            {
+              "startTime": "67.200s",
+              "endTime": "67.500s",
+              "word": "дела"
+            },
+            {
+              "startTime": "67.500s",
+              "endTime": "68s",
+              "word": "было"
+            },
+            {
+              "startTime": "68s",
+              "endTime": "69.200s",
+              "word": "помню"
+            },
+            {
+              "startTime": "69.200s",
+              "endTime": "69.900s",
+              "word": "езжай"
+            },
+            {
+              "startTime": "69.900s",
+              "endTime": "70.200s",
+              "word": "обратно"
+            },
+            {
+              "startTime": "70.200s",
+              "endTime": "71s",
+              "word": "паяльник"
+            },
+            {
+              "startTime": "71s",
+              "endTime": "71.100s",
+              "word": "нужен"
+            },
+            {
+              "startTime": "71.100s",
+              "endTime": "71.500s",
+              "word": "был"
+            },
+            {
+              "startTime": "71.500s",
+              "endTime": "71.900s",
+              "word": "Напомни"
+            },
+            {
+              "startTime": "71.900s",
+              "endTime": "74.500s",
+              "word": "Расскажите"
+            },
+            {
+              "startTime": "74.500s",
+              "endTime": "74.600s",
+              "word": "я"
+            },
+            {
+              "startTime": "74.600s",
+              "endTime": "74.800s",
+              "word": "эту"
+            },
+            {
+              "startTime": "74.800s",
+              "endTime": "75s",
+              "word": "статью"
+            },
+            {
+              "startTime": "75s",
+              "endTime": "75.200s",
+              "word": "не"
+            },
+            {
+              "startTime": "75.200s",
+              "endTime": "75.500s",
+              "word": "читал"
+            },
+            {
+              "startTime": "75.500s",
+              "endTime": "75.800s",
+              "word": "Какой"
+            },
+            {
+              "startTime": "75.800s",
+              "endTime": "76.100s",
+              "word": "паяльник"
+            },
+            {
+              "startTime": "76.100s",
+              "endTime": "76.500s",
+              "word": "он"
+            },
+            {
+              "startTime": "76.500s",
+              "endTime": "77.200s",
+              "word": "красивенький"
+            },
+            {
+              "startTime": "77.200s",
+              "endTime": "77.300s",
+              "word": "так"
+            },
+            {
+              "startTime": "77.300s",
+              "endTime": "77.400s",
+              "word": "вот"
+            },
+            {
+              "startTime": "77.400s",
+              "endTime": "77.600s",
+              "word": "на"
+            },
+            {
+              "startTime": "77.600s",
+              "endTime": "78.200s",
+              "word": "картинках"
+            },
+            {
+              "startTime": "78.200s",
+              "endTime": "78.700s",
+              "word": "нарисован"
+            },
+            {
+              "startTime": "78.700s",
+              "endTime": "79.100s",
+              "word": "Кто"
+            },
+            {
+              "startTime": "79.100s",
+              "endTime": "79.200s",
+              "word": "кто"
+            },
+            {
+              "startTime": "79.200s",
+              "endTime": "79.600s",
+              "word": "к"
+            },
+            {
+              "startTime": "79.600s",
+              "endTime": "79.900s",
+              "word": "кому"
+            },
+            {
+              "startTime": "79.900s",
+              "endTime": "80.500s",
+              "word": "паять"
+            },
+            {
+              "startTime": "80.500s",
+              "endTime": "83.200s",
+              "word": "Ну"
+            },
+            {
+              "startTime": "83.200s",
+              "endTime": "84.900s",
+              "word": "макинтоши"
+            },
+            {
+              "startTime": "84.900s",
+              "endTime": "85.600s",
+              "word": "в"
+            },
+            {
+              "startTime": "85.600s",
+              "endTime": "85.900s",
+              "word": "смысле"
+            },
+            {
+              "startTime": "85.900s",
+              "endTime": "86.500s",
+              "word": "первые"
+            },
+            {
+              "startTime": "86.500s",
+              "endTime": "87.100s",
+              "word": "компьютеры"
+            },
+            {
+              "startTime": "87.100s",
+              "endTime": "87.300s",
+              "word": "Apple"
+            },
+            {
+              "startTime": "87.300s",
+              "endTime": "87.700s",
+              "word": "не"
+            },
+            {
+              "startTime": "87.700s",
+              "endTime": "88.100s",
+              "word": "эти"
+            },
+            {
+              "startTime": "88.100s",
+              "endTime": "88.400s",
+              "word": "которые"
+            },
+            {
+              "startTime": "88.400s",
+              "endTime": "88.500s",
+              "word": "ты"
+            },
+            {
+              "startTime": "88.500s",
+              "endTime": "88.700s",
+              "word": "сейчас"
+            },
+            {
+              "startTime": "88.700s",
+              "endTime": "89s",
+              "word": "видишь"
+            },
+            {
+              "startTime": "89s",
+              "endTime": "89s",
+              "word": "на"
+            },
+            {
+              "startTime": "89s",
+              "endTime": "89.400s",
+              "word": "картинке"
+            },
+            {
+              "startTime": "89.400s",
+              "endTime": "89.900s",
+              "word": "а"
+            },
+            {
+              "startTime": "89.900s",
+              "endTime": "90.200s",
+              "word": "ты"
+            },
+            {
+              "startTime": "90.200s",
+              "endTime": "90.500s",
+              "word": "тоже"
+            },
+            {
+              "startTime": "90.500s",
+              "endTime": "91.200s",
+              "word": "Антош"
+            },
+            {
+              "startTime": "91.200s",
+              "endTime": "92.200s",
+              "word": "Да"
+            },
+            {
+              "startTime": "92.200s",
+              "endTime": "93.200s",
+              "word": "этот"
+            },
+            {
+              "startTime": "93.200s",
+              "endTime": "93.500s",
+              "word": "компьютер"
+            },
+            {
+              "startTime": "93.500s",
+              "endTime": "93.800s",
+              "word": "называется"
+            },
+            {
+              "startTime": "93.800s",
+              "endTime": "94.100s",
+              "word": "не"
+            },
+            {
+              "startTime": "94.100s",
+              "endTime": "94.400s",
+              "word": "Apple"
+            },
+            {
+              "startTime": "94.400s",
+              "endTime": "94.700s",
+              "word": "Макинтош"
+            },
+            {
+              "startTime": "94.700s",
+              "endTime": "96.800s",
+              "word": "первые"
+            },
+            {
+              "startTime": "96.800s",
+              "endTime": "97.300s",
+              "word": "компьютеры"
+            },
+            {
+              "startTime": "97.300s",
+              "endTime": "97.500s",
+              "word": "Apple"
+            },
+            {
+              "startTime": "97.500s",
+              "endTime": "98.100s",
+              "word": "Это"
+            },
+            {
+              "startTime": "98.100s",
+              "endTime": "98.300s",
+              "word": "был"
+            },
+            {
+              "startTime": "98.300s",
+              "endTime": "98.900s",
+              "word": "конструктор"
+            },
+            {
+              "startTime": "98.900s",
+              "endTime": "99s",
+              "word": "для"
+            },
+            {
+              "startTime": "99s",
+              "endTime": "99.100s",
+              "word": "сборки"
+            },
+            {
+              "startTime": "99.100s",
+              "endTime": "100.200s",
+              "word": "с"
+            },
+            {
+              "startTime": "100.200s",
+              "endTime": "100.600s",
+              "word": "помощью"
+            },
+            {
+              "startTime": "100.600s",
+              "endTime": "100.900s",
+              "word": "паяльника"
+            },
+            {
+              "startTime": "100.900s",
+              "endTime": "102.600s",
+              "word": "он"
+            },
+            {
+              "startTime": "102.600s",
+              "endTime": "103.100s",
+              "word": "назывался"
+            },
+            {
+              "startTime": "103.100s",
+              "endTime": "103.400s",
+              "word": "этого"
+            },
+            {
+              "startTime": "103.400s",
+              "endTime": "103.800s",
+              "word": "надо"
+            },
+            {
+              "startTime": "103.800s",
+              "endTime": "104s",
+              "word": "и"
+            },
+            {
+              "startTime": "104s",
+              "endTime": "104s",
+              "word": "он"
+            },
+            {
+              "startTime": "104s",
+              "endTime": "104.300s",
+              "word": "был"
+            },
+            {
+              "startTime": "104.300s",
+              "endTime": "104.400s",
+              "word": "очень"
+            },
+            {
+              "startTime": "104.400s",
+              "endTime": "104.900s",
+              "word": "красивенький"
+            },
+            {
+              "startTime": "104.900s",
+              "endTime": "106.400s",
+              "word": "Обратите"
+            },
+            {
+              "startTime": "106.400s",
+              "endTime": "107s",
+              "word": "внимание"
+            },
+            {
+              "startTime": "107s",
+              "endTime": "107s",
+              "word": "что"
+            },
+            {
+              "startTime": "107s",
+              "endTime": "107.600s",
+              "word": "у"
+            },
+            {
+              "startTime": "107.600s",
+              "endTime": "107.900s",
+              "word": "это"
+            },
+            {
+              "startTime": "107.900s",
+              "endTime": "108.500s",
+              "word": "компьютер"
+            },
+            {
+              "startTime": "108.500s",
+              "endTime": "108.800s",
+              "word": "Apple"
+            },
+            {
+              "startTime": "108.800s",
+              "endTime": "110.200s",
+              "word": "этапом"
+            },
+            {
+              "startTime": "110.200s",
+              "endTime": "110.400s",
+              "word": "один"
+            },
+            {
+              "startTime": "110.400s",
+              "endTime": "110.500s",
+              "word": "из"
+            },
+            {
+              "startTime": "110.500s",
+              "endTime": "110.800s",
+              "word": "первых"
+            },
+            {
+              "startTime": "110.800s",
+              "endTime": "111.400s",
+              "word": "компьютеров"
+            },
+            {
+              "startTime": "111.400s",
+              "endTime": "111.500s",
+              "word": "у"
+            },
+            {
+              "startTime": "111.500s",
+              "endTime": "112s",
+              "word": "которого"
+            },
+            {
+              "startTime": "112s",
+              "endTime": "112.500s",
+              "word": "появился"
+            },
+            {
+              "startTime": "112.500s",
+              "endTime": "112.800s",
+              "word": "вот"
+            },
+            {
+              "startTime": "112.800s",
+              "endTime": "113s",
+              "word": "этот"
+            },
+            {
+              "startTime": "113s",
+              "endTime": "113.400s",
+              "word": "цветов"
+            },
+            {
+              "startTime": "113.400s",
+              "endTime": "113.500s",
+              "word": "и"
+            },
+            {
+              "startTime": "113.500s",
+              "endTime": "113.600s",
+              "word": "логотипов"
+            },
+            {
+              "startTime": "113.600s",
+              "endTime": "115.500s",
+              "word": "такой"
+            },
+            {
+              "startTime": "115.500s",
+              "endTime": "116.400s",
+              "word": "яблочко"
+            },
+            {
+              "startTime": "116.400s",
+              "endTime": "118.100s",
+              "word": "А"
+            },
+            {
+              "startTime": "118.100s",
+              "endTime": "118.600s",
+              "word": "если"
+            },
+            {
+              "startTime": "118.600s",
+              "endTime": "118.800s",
+              "word": "раньше"
+            },
+            {
+              "startTime": "118.800s",
+              "endTime": "119.100s",
+              "word": "их"
+            },
+            {
+              "startTime": "119.100s",
+              "endTime": "119.200s",
+              "word": "не"
+            },
+            {
+              "startTime": "119.200s",
+              "endTime": "119.600s",
+              "word": "было-то"
+            }
+          ]
+        }
+      ],
+      "languageCode": "ru-ru"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": "как рождает что они могу раньше появится логотип или что-то другое производили нет до этого логотип был чёрно-белый такое видеть чёрного яблочко. просто чёрно-белый А ещё до этого был супер графический такое Логотип в стиле гравюры на Apple ты видел его там нет он просто сидит правильно вот которая самый самый старый А вот это значит балалайка край мы говорим этот первый маг он стоил но реально я вся в молодости узнал что есть такие компьютеры для очень богатых называется маки макинтоши и стоят они конских денег этот стол 2502 495 2500 по ценам 84 года это это прямо что-то особенного Ну нет по-моему это не очень много Нифига себе не очень много",
+          "confidence": 0.7559537291526794,
+          "words": [
+            {
+              "startTime": "119.900s",
+              "endTime": "122s",
+              "word": "как"
+            },
+            {
+              "startTime": "122s",
+              "endTime": "122.400s",
+              "word": "рождает"
+            },
+            {
+              "startTime": "122.400s",
+              "endTime": "122.600s",
+              "word": "что"
+            },
+            {
+              "startTime": "122.600s",
+              "endTime": "122.700s",
+              "word": "они"
+            },
+            {
+              "startTime": "122.700s",
+              "endTime": "123.200s",
+              "word": "могу"
+            },
+            {
+              "startTime": "123.200s",
+              "endTime": "123.400s",
+              "word": "раньше"
+            },
+            {
+              "startTime": "123.400s",
+              "endTime": "123.900s",
+              "word": "появится"
+            },
+            {
+              "startTime": "123.900s",
+              "endTime": "124.300s",
+              "word": "логотип"
+            },
+            {
+              "startTime": "124.300s",
+              "endTime": "124.800s",
+              "word": "или"
+            },
+            {
+              "startTime": "124.800s",
+              "endTime": "125.300s",
+              "word": "что-то"
+            },
+            {
+              "startTime": "125.300s",
+              "endTime": "125.600s",
+              "word": "другое"
+            },
+            {
+              "startTime": "125.600s",
+              "endTime": "126.100s",
+              "word": "производили"
+            },
+            {
+              "startTime": "126.100s",
+              "endTime": "126.700s",
+              "word": "нет"
+            },
+            {
+              "startTime": "126.700s",
+              "endTime": "127s",
+              "word": "до"
+            },
+            {
+              "startTime": "127s",
+              "endTime": "127.100s",
+              "word": "этого"
+            },
+            {
+              "startTime": "127.100s",
+              "endTime": "127.800s",
+              "word": "логотип"
+            },
+            {
+              "startTime": "127.800s",
+              "endTime": "128s",
+              "word": "был"
+            },
+            {
+              "startTime": "128s",
+              "endTime": "128.700s",
+              "word": "чёрно-белый"
+            },
+            {
+              "startTime": "128.700s",
+              "endTime": "129.200s",
+              "word": "такое"
+            },
+            {
+              "startTime": "129.200s",
+              "endTime": "129.500s",
+              "word": "видеть"
+            },
+            {
+              "startTime": "129.500s",
+              "endTime": "130s",
+              "word": "чёрного"
+            },
+            {
+              "startTime": "130s",
+              "endTime": "131s",
+              "word": "яблочко."
+            },
+            {
+              "startTime": "131s",
+              "endTime": "131.400s",
+              "word": "просто"
+            },
+            {
+              "startTime": "131.400s",
+              "endTime": "131.900s",
+              "word": "чёрно-белый"
+            },
+            {
+              "startTime": "131.900s",
+              "endTime": "132.800s",
+              "word": "А"
+            },
+            {
+              "startTime": "132.800s",
+              "endTime": "133.400s",
+              "word": "ещё"
+            },
+            {
+              "startTime": "133.400s",
+              "endTime": "133.600s",
+              "word": "до"
+            },
+            {
+              "startTime": "133.600s",
+              "endTime": "133.900s",
+              "word": "этого"
+            },
+            {
+              "startTime": "133.900s",
+              "endTime": "134.100s",
+              "word": "был"
+            },
+            {
+              "startTime": "134.100s",
+              "endTime": "134.500s",
+              "word": "супер"
+            },
+            {
+              "startTime": "134.500s",
+              "endTime": "135.200s",
+              "word": "графический"
+            },
+            {
+              "startTime": "135.200s",
+              "endTime": "135.400s",
+              "word": "такое"
+            },
+            {
+              "startTime": "135.400s",
+              "endTime": "137.100s",
+              "word": "Логотип"
+            },
+            {
+              "startTime": "137.100s",
+              "endTime": "137.300s",
+              "word": "в"
+            },
+            {
+              "startTime": "137.300s",
+              "endTime": "137.700s",
+              "word": "стиле"
+            },
+            {
+              "startTime": "137.700s",
+              "endTime": "139.100s",
+              "word": "гравюры"
+            },
+            {
+              "startTime": "139.100s",
+              "endTime": "139.500s",
+              "word": "на"
+            },
+            {
+              "startTime": "139.500s",
+              "endTime": "140.200s",
+              "word": "Apple"
+            },
+            {
+              "startTime": "140.200s",
+              "endTime": "140.500s",
+              "word": "ты"
+            },
+            {
+              "startTime": "140.500s",
+              "endTime": "140.800s",
+              "word": "видел"
+            },
+            {
+              "startTime": "140.800s",
+              "endTime": "140.900s",
+              "word": "его"
+            },
+            {
+              "startTime": "140.900s",
+              "endTime": "144.500s",
+              "word": "там"
+            },
+            {
+              "startTime": "144.500s",
+              "endTime": "145s",
+              "word": "нет"
+            },
+            {
+              "startTime": "145s",
+              "endTime": "145.200s",
+              "word": "он"
+            },
+            {
+              "startTime": "145.200s",
+              "endTime": "145.400s",
+              "word": "просто"
+            },
+            {
+              "startTime": "145.400s",
+              "endTime": "145.800s",
+              "word": "сидит"
+            },
+            {
+              "startTime": "145.800s",
+              "endTime": "146.200s",
+              "word": "правильно"
+            },
+            {
+              "startTime": "146.200s",
+              "endTime": "146.300s",
+              "word": "вот"
+            },
+            {
+              "startTime": "146.300s",
+              "endTime": "146.800s",
+              "word": "которая"
+            },
+            {
+              "startTime": "146.800s",
+              "endTime": "147.300s",
+              "word": "самый"
+            },
+            {
+              "startTime": "147.300s",
+              "endTime": "147.500s",
+              "word": "самый"
+            },
+            {
+              "startTime": "147.500s",
+              "endTime": "147.900s",
+              "word": "старый"
+            },
+            {
+              "startTime": "147.900s",
+              "endTime": "149.100s",
+              "word": "А"
+            },
+            {
+              "startTime": "149.100s",
+              "endTime": "149.600s",
+              "word": "вот"
+            },
+            {
+              "startTime": "149.600s",
+              "endTime": "149.700s",
+              "word": "это"
+            },
+            {
+              "startTime": "149.700s",
+              "endTime": "149.900s",
+              "word": "значит"
+            },
+            {
+              "startTime": "149.900s",
+              "endTime": "150.600s",
+              "word": "балалайка"
+            },
+            {
+              "startTime": "150.600s",
+              "endTime": "151s",
+              "word": "край"
+            },
+            {
+              "startTime": "151s",
+              "endTime": "151.100s",
+              "word": "мы"
+            },
+            {
+              "startTime": "151.100s",
+              "endTime": "151.700s",
+              "word": "говорим"
+            },
+            {
+              "startTime": "151.700s",
+              "endTime": "152s",
+              "word": "этот"
+            },
+            {
+              "startTime": "152s",
+              "endTime": "152.800s",
+              "word": "первый"
+            },
+            {
+              "startTime": "152.800s",
+              "endTime": "153.100s",
+              "word": "маг"
+            },
+            {
+              "startTime": "153.100s",
+              "endTime": "153.900s",
+              "word": "он"
+            },
+            {
+              "startTime": "153.900s",
+              "endTime": "154.500s",
+              "word": "стоил"
+            },
+            {
+              "startTime": "154.500s",
+              "endTime": "154.800s",
+              "word": "но"
+            },
+            {
+              "startTime": "154.800s",
+              "endTime": "155.300s",
+              "word": "реально"
+            },
+            {
+              "startTime": "155.300s",
+              "endTime": "155.500s",
+              "word": "я"
+            },
+            {
+              "startTime": "155.500s",
+              "endTime": "155.900s",
+              "word": "вся"
+            },
+            {
+              "startTime": "155.900s",
+              "endTime": "156.300s",
+              "word": "в"
+            },
+            {
+              "startTime": "156.300s",
+              "endTime": "156.800s",
+              "word": "молодости"
+            },
+            {
+              "startTime": "156.800s",
+              "endTime": "157.300s",
+              "word": "узнал"
+            },
+            {
+              "startTime": "157.300s",
+              "endTime": "157.500s",
+              "word": "что"
+            },
+            {
+              "startTime": "157.500s",
+              "endTime": "157.700s",
+              "word": "есть"
+            },
+            {
+              "startTime": "157.700s",
+              "endTime": "158s",
+              "word": "такие"
+            },
+            {
+              "startTime": "158s",
+              "endTime": "158.300s",
+              "word": "компьютеры"
+            },
+            {
+              "startTime": "158.300s",
+              "endTime": "159s",
+              "word": "для"
+            },
+            {
+              "startTime": "159s",
+              "endTime": "159.300s",
+              "word": "очень"
+            },
+            {
+              "startTime": "159.300s",
+              "endTime": "159.500s",
+              "word": "богатых"
+            },
+            {
+              "startTime": "159.500s",
+              "endTime": "160.400s",
+              "word": "называется"
+            },
+            {
+              "startTime": "160.400s",
+              "endTime": "160.700s",
+              "word": "маки"
+            },
+            {
+              "startTime": "160.700s",
+              "endTime": "162.300s",
+              "word": "макинтоши"
+            },
+            {
+              "startTime": "162.300s",
+              "endTime": "162.400s",
+              "word": "и"
+            },
+            {
+              "startTime": "162.400s",
+              "endTime": "162.700s",
+              "word": "стоят"
+            },
+            {
+              "startTime": "162.700s",
+              "endTime": "162.900s",
+              "word": "они"
+            },
+            {
+              "startTime": "162.900s",
+              "endTime": "163.300s",
+              "word": "конских"
+            },
+            {
+              "startTime": "163.300s",
+              "endTime": "163.600s",
+              "word": "денег"
+            },
+            {
+              "startTime": "163.600s",
+              "endTime": "163.900s",
+              "word": "этот"
+            },
+            {
+              "startTime": "163.900s",
+              "endTime": "164.200s",
+              "word": "стол"
+            },
+            {
+              "startTime": "164.200s",
+              "endTime": "165.300s",
+              "word": "2502"
+            },
+            {
+              "startTime": "165.300s",
+              "endTime": "166.300s",
+              "word": "495"
+            },
+            {
+              "startTime": "166.300s",
+              "endTime": "167.200s",
+              "word": "2500"
+            },
+            {
+              "startTime": "167.200s",
+              "endTime": "167.300s",
+              "word": "по"
+            },
+            {
+              "startTime": "167.300s",
+              "endTime": "167.800s",
+              "word": "ценам"
+            },
+            {
+              "startTime": "167.800s",
+              "endTime": "169.500s",
+              "word": "84"
+            },
+            {
+              "startTime": "169.500s",
+              "endTime": "169.900s",
+              "word": "года"
+            },
+            {
+              "startTime": "169.900s",
+              "endTime": "170.200s",
+              "word": "это"
+            },
+            {
+              "startTime": "170.200s",
+              "endTime": "170.500s",
+              "word": "это"
+            },
+            {
+              "startTime": "170.500s",
+              "endTime": "170.700s",
+              "word": "прямо"
+            },
+            {
+              "startTime": "170.700s",
+              "endTime": "171.700s",
+              "word": "что-то"
+            },
+            {
+              "startTime": "171.700s",
+              "endTime": "172.200s",
+              "word": "особенного"
+            },
+            {
+              "startTime": "172.200s",
+              "endTime": "173.600s",
+              "word": "Ну"
+            },
+            {
+              "startTime": "173.600s",
+              "endTime": "173.800s",
+              "word": "нет"
+            },
+            {
+              "startTime": "173.800s",
+              "endTime": "174.100s",
+              "word": "по-моему"
+            },
+            {
+              "startTime": "174.100s",
+              "endTime": "174.600s",
+              "word": "это"
+            },
+            {
+              "startTime": "174.600s",
+              "endTime": "174.800s",
+              "word": "не"
+            },
+            {
+              "startTime": "174.800s",
+              "endTime": "175.100s",
+              "word": "очень"
+            },
+            {
+              "startTime": "175.100s",
+              "endTime": "175.400s",
+              "word": "много"
+            },
+            {
+              "startTime": "175.400s",
+              "endTime": "176.900s",
+              "word": "Нифига"
+            },
+            {
+              "startTime": "176.900s",
+              "endTime": "177.100s",
+              "word": "себе"
+            },
+            {
+              "startTime": "177.100s",
+              "endTime": "177.300s",
+              "word": "не"
+            },
+            {
+              "startTime": "177.300s",
+              "endTime": "177.500s",
+              "word": "очень"
+            },
+            {
+              "startTime": "177.500s",
+              "endTime": "177.800s",
+              "word": "много"
+            }
+          ]
+        }
+      ],
+      "languageCode": "ru-ru"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": "как мне очень много но половиной раза дороже Чем ценны которые были тогда на окружающие писюльки или что там было вместо пиздюков по ценам в восьмидесятых годов по-моему это Ну то есть более-менее там другие опять как-то не очень дорого командоры какие-то Мегионе стоили 500 долларов в то время pa600 что такое кто Electra 1002 же ещё он же такой сборе шёл правильно красиво кита монитор был сразу у него в общем всё сразу подарочная коробка только половина блок там подключать к этим к телевизору Supra через что ты просто скажи всё покупал всё сразу ава заценили как классно какой sales pitch у них у них же есть вот это приставка или объявления наверное из газеты как они анонсировали этот маг и там есть ли в 1С 235 млн человек который не знают как использовать компьютер почему 2",
+          "confidence": 0.8089993000030518,
+          "words": [
+            {
+              "startTime": "179.900s",
+              "endTime": "181.100s",
+              "word": "как"
+            },
+            {
+              "startTime": "181.100s",
+              "endTime": "181.200s",
+              "word": "мне"
+            },
+            {
+              "startTime": "181.200s",
+              "endTime": "181.400s",
+              "word": "очень"
+            },
+            {
+              "startTime": "181.400s",
+              "endTime": "181.900s",
+              "word": "много"
+            },
+            {
+              "startTime": "181.900s",
+              "endTime": "182.100s",
+              "word": "но"
+            },
+            {
+              "startTime": "182.100s",
+              "endTime": "185.100s",
+              "word": "половиной"
+            },
+            {
+              "startTime": "185.100s",
+              "endTime": "185.300s",
+              "word": "раза"
+            },
+            {
+              "startTime": "185.300s",
+              "endTime": "185.500s",
+              "word": "дороже"
+            },
+            {
+              "startTime": "185.500s",
+              "endTime": "186s",
+              "word": "Чем"
+            },
+            {
+              "startTime": "186s",
+              "endTime": "186.600s",
+              "word": "ценны"
+            },
+            {
+              "startTime": "186.600s",
+              "endTime": "187s",
+              "word": "которые"
+            },
+            {
+              "startTime": "187s",
+              "endTime": "187.300s",
+              "word": "были"
+            },
+            {
+              "startTime": "187.300s",
+              "endTime": "187.600s",
+              "word": "тогда"
+            },
+            {
+              "startTime": "187.600s",
+              "endTime": "187.900s",
+              "word": "на"
+            },
+            {
+              "startTime": "187.900s",
+              "endTime": "188.900s",
+              "word": "окружающие"
+            },
+            {
+              "startTime": "188.900s",
+              "endTime": "189.700s",
+              "word": "писюльки"
+            },
+            {
+              "startTime": "189.700s",
+              "endTime": "190s",
+              "word": "или"
+            },
+            {
+              "startTime": "190s",
+              "endTime": "190.200s",
+              "word": "что"
+            },
+            {
+              "startTime": "190.200s",
+              "endTime": "190.300s",
+              "word": "там"
+            },
+            {
+              "startTime": "190.300s",
+              "endTime": "190.400s",
+              "word": "было"
+            },
+            {
+              "startTime": "190.400s",
+              "endTime": "190.800s",
+              "word": "вместо"
+            },
+            {
+              "startTime": "190.800s",
+              "endTime": "191.300s",
+              "word": "пиздюков"
+            },
+            {
+              "startTime": "191.300s",
+              "endTime": "192.500s",
+              "word": "по"
+            },
+            {
+              "startTime": "192.500s",
+              "endTime": "192.900s",
+              "word": "ценам"
+            },
+            {
+              "startTime": "192.900s",
+              "endTime": "193s",
+              "word": "в"
+            },
+            {
+              "startTime": "193s",
+              "endTime": "193.700s",
+              "word": "восьмидесятых"
+            },
+            {
+              "startTime": "193.700s",
+              "endTime": "193.900s",
+              "word": "годов"
+            },
+            {
+              "startTime": "193.900s",
+              "endTime": "195.100s",
+              "word": "по-моему"
+            },
+            {
+              "startTime": "195.100s",
+              "endTime": "195.400s",
+              "word": "это"
+            },
+            {
+              "startTime": "195.400s",
+              "endTime": "195.700s",
+              "word": "Ну"
+            },
+            {
+              "startTime": "195.700s",
+              "endTime": "196s",
+              "word": "то"
+            },
+            {
+              "startTime": "196s",
+              "endTime": "196.100s",
+              "word": "есть"
+            },
+            {
+              "startTime": "196.100s",
+              "endTime": "197.600s",
+              "word": "более-менее"
+            },
+            {
+              "startTime": "197.600s",
+              "endTime": "198.200s",
+              "word": "там"
+            },
+            {
+              "startTime": "198.200s",
+              "endTime": "198.900s",
+              "word": "другие"
+            },
+            {
+              "startTime": "198.900s",
+              "endTime": "199.100s",
+              "word": "опять"
+            },
+            {
+              "startTime": "199.100s",
+              "endTime": "200.600s",
+              "word": "как-то"
+            },
+            {
+              "startTime": "200.600s",
+              "endTime": "200.800s",
+              "word": "не"
+            },
+            {
+              "startTime": "200.800s",
+              "endTime": "201.300s",
+              "word": "очень"
+            },
+            {
+              "startTime": "201.300s",
+              "endTime": "201.600s",
+              "word": "дорого"
+            },
+            {
+              "startTime": "201.600s",
+              "endTime": "202.400s",
+              "word": "командоры"
+            },
+            {
+              "startTime": "202.400s",
+              "endTime": "202.800s",
+              "word": "какие-то"
+            },
+            {
+              "startTime": "202.800s",
+              "endTime": "203.500s",
+              "word": "Мегионе"
+            },
+            {
+              "startTime": "203.500s",
+              "endTime": "203.800s",
+              "word": "стоили"
+            },
+            {
+              "startTime": "203.800s",
+              "endTime": "204.600s",
+              "word": "500"
+            },
+            {
+              "startTime": "204.600s",
+              "endTime": "205s",
+              "word": "долларов"
+            },
+            {
+              "startTime": "205s",
+              "endTime": "205.100s",
+              "word": "в"
+            },
+            {
+              "startTime": "205.100s",
+              "endTime": "205.200s",
+              "word": "то"
+            },
+            {
+              "startTime": "205.200s",
+              "endTime": "205.300s",
+              "word": "время"
+            },
+            {
+              "startTime": "205.300s",
+              "endTime": "206s",
+              "word": "pa600"
+            },
+            {
+              "startTime": "206s",
+              "endTime": "206.200s",
+              "word": "что"
+            },
+            {
+              "startTime": "206.200s",
+              "endTime": "206.700s",
+              "word": "такое"
+            },
+            {
+              "startTime": "206.700s",
+              "endTime": "207.900s",
+              "word": "кто"
+            },
+            {
+              "startTime": "207.900s",
+              "endTime": "208.300s",
+              "word": "Electra"
+            },
+            {
+              "startTime": "208.300s",
+              "endTime": "209.900s",
+              "word": "1002"
+            },
+            {
+              "startTime": "209.900s",
+              "endTime": "210s",
+              "word": "же"
+            },
+            {
+              "startTime": "210s",
+              "endTime": "210.200s",
+              "word": "ещё"
+            },
+            {
+              "startTime": "210.200s",
+              "endTime": "210.600s",
+              "word": "он"
+            },
+            {
+              "startTime": "210.600s",
+              "endTime": "210.700s",
+              "word": "же"
+            },
+            {
+              "startTime": "210.700s",
+              "endTime": "210.900s",
+              "word": "такой"
+            },
+            {
+              "startTime": "210.900s",
+              "endTime": "211.400s",
+              "word": "сборе"
+            },
+            {
+              "startTime": "211.400s",
+              "endTime": "211.700s",
+              "word": "шёл"
+            },
+            {
+              "startTime": "211.700s",
+              "endTime": "212.100s",
+              "word": "правильно"
+            },
+            {
+              "startTime": "212.100s",
+              "endTime": "212.400s",
+              "word": "красиво"
+            },
+            {
+              "startTime": "212.400s",
+              "endTime": "212.600s",
+              "word": "кита"
+            },
+            {
+              "startTime": "212.600s",
+              "endTime": "213.800s",
+              "word": "монитор"
+            },
+            {
+              "startTime": "213.800s",
+              "endTime": "214s",
+              "word": "был"
+            },
+            {
+              "startTime": "214s",
+              "endTime": "214.300s",
+              "word": "сразу"
+            },
+            {
+              "startTime": "214.300s",
+              "endTime": "214.500s",
+              "word": "у"
+            },
+            {
+              "startTime": "214.500s",
+              "endTime": "214.700s",
+              "word": "него"
+            },
+            {
+              "startTime": "214.700s",
+              "endTime": "215s",
+              "word": "в"
+            },
+            {
+              "startTime": "215s",
+              "endTime": "215.300s",
+              "word": "общем"
+            },
+            {
+              "startTime": "215.300s",
+              "endTime": "215.400s",
+              "word": "всё"
+            },
+            {
+              "startTime": "215.400s",
+              "endTime": "215.800s",
+              "word": "сразу"
+            },
+            {
+              "startTime": "215.800s",
+              "endTime": "216.700s",
+              "word": "подарочная"
+            },
+            {
+              "startTime": "216.700s",
+              "endTime": "217s",
+              "word": "коробка"
+            },
+            {
+              "startTime": "217s",
+              "endTime": "217.200s",
+              "word": "только"
+            },
+            {
+              "startTime": "217.200s",
+              "endTime": "217.700s",
+              "word": "половина"
+            },
+            {
+              "startTime": "217.700s",
+              "endTime": "218s",
+              "word": "блок"
+            },
+            {
+              "startTime": "218s",
+              "endTime": "218.100s",
+              "word": "там"
+            },
+            {
+              "startTime": "218.100s",
+              "endTime": "218.600s",
+              "word": "подключать"
+            },
+            {
+              "startTime": "218.600s",
+              "endTime": "218.700s",
+              "word": "к"
+            },
+            {
+              "startTime": "218.700s",
+              "endTime": "218.900s",
+              "word": "этим"
+            },
+            {
+              "startTime": "218.900s",
+              "endTime": "219.400s",
+              "word": "к"
+            },
+            {
+              "startTime": "219.400s",
+              "endTime": "220.200s",
+              "word": "телевизору"
+            },
+            {
+              "startTime": "220.200s",
+              "endTime": "220.500s",
+              "word": "Supra"
+            },
+            {
+              "startTime": "220.500s",
+              "endTime": "220.700s",
+              "word": "через"
+            },
+            {
+              "startTime": "220.700s",
+              "endTime": "222.200s",
+              "word": "что"
+            },
+            {
+              "startTime": "222.200s",
+              "endTime": "222.500s",
+              "word": "ты"
+            },
+            {
+              "startTime": "222.500s",
+              "endTime": "222.800s",
+              "word": "просто"
+            },
+            {
+              "startTime": "222.800s",
+              "endTime": "223s",
+              "word": "скажи"
+            },
+            {
+              "startTime": "223s",
+              "endTime": "223.200s",
+              "word": "всё"
+            },
+            {
+              "startTime": "223.200s",
+              "endTime": "223.500s",
+              "word": "покупал"
+            },
+            {
+              "startTime": "223.500s",
+              "endTime": "223.700s",
+              "word": "всё"
+            },
+            {
+              "startTime": "223.700s",
+              "endTime": "224s",
+              "word": "сразу"
+            },
+            {
+              "startTime": "224s",
+              "endTime": "224.900s",
+              "word": "ава"
+            },
+            {
+              "startTime": "224.900s",
+              "endTime": "225.300s",
+              "word": "заценили"
+            },
+            {
+              "startTime": "225.300s",
+              "endTime": "225.500s",
+              "word": "как"
+            },
+            {
+              "startTime": "225.500s",
+              "endTime": "225.900s",
+              "word": "классно"
+            },
+            {
+              "startTime": "225.900s",
+              "endTime": "226.100s",
+              "word": "какой"
+            },
+            {
+              "startTime": "226.100s",
+              "endTime": "226.500s",
+              "word": "sales"
+            },
+            {
+              "startTime": "226.500s",
+              "endTime": "226.800s",
+              "word": "pitch"
+            },
+            {
+              "startTime": "226.800s",
+              "endTime": "226.800s",
+              "word": "у"
+            },
+            {
+              "startTime": "226.800s",
+              "endTime": "227.100s",
+              "word": "них"
+            },
+            {
+              "startTime": "227.100s",
+              "endTime": "227.100s",
+              "word": "у"
+            },
+            {
+              "startTime": "227.100s",
+              "endTime": "227.200s",
+              "word": "них"
+            },
+            {
+              "startTime": "227.200s",
+              "endTime": "227.300s",
+              "word": "же"
+            },
+            {
+              "startTime": "227.300s",
+              "endTime": "227.400s",
+              "word": "есть"
+            },
+            {
+              "startTime": "227.400s",
+              "endTime": "227.700s",
+              "word": "вот"
+            },
+            {
+              "startTime": "227.700s",
+              "endTime": "227.800s",
+              "word": "это"
+            },
+            {
+              "startTime": "227.800s",
+              "endTime": "228.800s",
+              "word": "приставка"
+            },
+            {
+              "startTime": "228.800s",
+              "endTime": "228.900s",
+              "word": "или"
+            },
+            {
+              "startTime": "228.900s",
+              "endTime": "229.400s",
+              "word": "объявления"
+            },
+            {
+              "startTime": "229.400s",
+              "endTime": "229.800s",
+              "word": "наверное"
+            },
+            {
+              "startTime": "229.800s",
+              "endTime": "229.900s",
+              "word": "из"
+            },
+            {
+              "startTime": "229.900s",
+              "endTime": "230.300s",
+              "word": "газеты"
+            },
+            {
+              "startTime": "230.300s",
+              "endTime": "231.100s",
+              "word": "как"
+            },
+            {
+              "startTime": "231.100s",
+              "endTime": "231.300s",
+              "word": "они"
+            },
+            {
+              "startTime": "231.300s",
+              "endTime": "231.900s",
+              "word": "анонсировали"
+            },
+            {
+              "startTime": "231.900s",
+              "endTime": "232.200s",
+              "word": "этот"
+            },
+            {
+              "startTime": "232.200s",
+              "endTime": "232.500s",
+              "word": "маг"
+            },
+            {
+              "startTime": "232.500s",
+              "endTime": "232.900s",
+              "word": "и"
+            },
+            {
+              "startTime": "232.900s",
+              "endTime": "233.900s",
+              "word": "там"
+            },
+            {
+              "startTime": "233.900s",
+              "endTime": "234.100s",
+              "word": "есть"
+            },
+            {
+              "startTime": "234.100s",
+              "endTime": "234.200s",
+              "word": "ли"
+            },
+            {
+              "startTime": "234.200s",
+              "endTime": "234.300s",
+              "word": "в"
+            },
+            {
+              "startTime": "234.300s",
+              "endTime": "234.600s",
+              "word": "1С"
+            },
+            {
+              "startTime": "234.600s",
+              "endTime": "235.600s",
+              "word": "235"
+            },
+            {
+              "startTime": "235.600s",
+              "endTime": "236s",
+              "word": "млн"
+            },
+            {
+              "startTime": "236s",
+              "endTime": "236.300s",
+              "word": "человек"
+            },
+            {
+              "startTime": "236.300s",
+              "endTime": "236.800s",
+              "word": "который"
+            },
+            {
+              "startTime": "236.800s",
+              "endTime": "236.900s",
+              "word": "не"
+            },
+            {
+              "startTime": "236.900s",
+              "endTime": "237.500s",
+              "word": "знают"
+            },
+            {
+              "startTime": "237.500s",
+              "endTime": "237.700s",
+              "word": "как"
+            },
+            {
+              "startTime": "237.700s",
+              "endTime": "238.300s",
+              "word": "использовать"
+            },
+            {
+              "startTime": "238.300s",
+              "endTime": "238.900s",
+              "word": "компьютер"
+            },
+            {
+              "startTime": "238.900s",
+              "endTime": "239.500s",
+              "word": "почему"
+            },
+            {
+              "startTime": "239.500s",
+              "endTime": "239.800s",
+              "word": "2"
+            }
+          ]
+        }
+      ],
+      "languageCode": "ru-ru"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": "опять видимо ставится за кадром то Используйте Вот это наш новый Макинтош и там есть манипулятор размером с ладонь катализация мышь Так что Никакой Ну да да она у вас я бачу большое дело конечно дорогой и со временем они не стали так чтобы сильно дешевле и на выставках когда на Маке попадались на них дома лежу Какая штука интересная на какой-то мотороле Таинственный сделано я вот это видел конкретный Мак на выставке и выглядела как какие-то инопланетяне какие-то продукты из параллельной вселенной настолько же далеко казалось От нас от всех А вот смотрите мы привыкли и на этом инопланетным железе живём и даже мучаемся вспоминая наши мучения в прошлый подкаст со звуком Мы учимся во всём и ничего продолжаем есть слоган типа никогда не доверяете компьютеру которые вы не можете поднять",
+          "confidence": 0.8154405951499939,
+          "words": [
+            {
+              "startTime": "239.800s",
+              "endTime": "240.400s",
+              "word": "опять"
+            },
+            {
+              "startTime": "240.400s",
+              "endTime": "240.600s",
+              "word": "видимо"
+            },
+            {
+              "startTime": "240.600s",
+              "endTime": "240.900s",
+              "word": "ставится"
+            },
+            {
+              "startTime": "240.900s",
+              "endTime": "241.200s",
+              "word": "за"
+            },
+            {
+              "startTime": "241.200s",
+              "endTime": "241.600s",
+              "word": "кадром"
+            },
+            {
+              "startTime": "241.600s",
+              "endTime": "242.100s",
+              "word": "то"
+            },
+            {
+              "startTime": "242.100s",
+              "endTime": "243.400s",
+              "word": "Используйте"
+            },
+            {
+              "startTime": "243.400s",
+              "endTime": "243.600s",
+              "word": "Вот"
+            },
+            {
+              "startTime": "243.600s",
+              "endTime": "243.700s",
+              "word": "это"
+            },
+            {
+              "startTime": "243.700s",
+              "endTime": "243.900s",
+              "word": "наш"
+            },
+            {
+              "startTime": "243.900s",
+              "endTime": "244.100s",
+              "word": "новый"
+            },
+            {
+              "startTime": "244.100s",
+              "endTime": "244.700s",
+              "word": "Макинтош"
+            },
+            {
+              "startTime": "244.700s",
+              "endTime": "244.800s",
+              "word": "и"
+            },
+            {
+              "startTime": "244.800s",
+              "endTime": "245.100s",
+              "word": "там"
+            },
+            {
+              "startTime": "245.100s",
+              "endTime": "245.300s",
+              "word": "есть"
+            },
+            {
+              "startTime": "245.300s",
+              "endTime": "247.100s",
+              "word": "манипулятор"
+            },
+            {
+              "startTime": "247.100s",
+              "endTime": "247.500s",
+              "word": "размером"
+            },
+            {
+              "startTime": "247.500s",
+              "endTime": "247.700s",
+              "word": "с"
+            },
+            {
+              "startTime": "247.700s",
+              "endTime": "248s",
+              "word": "ладонь"
+            },
+            {
+              "startTime": "248s",
+              "endTime": "248.500s",
+              "word": "катализация"
+            },
+            {
+              "startTime": "248.500s",
+              "endTime": "248.900s",
+              "word": "мышь"
+            },
+            {
+              "startTime": "248.900s",
+              "endTime": "249.500s",
+              "word": "Так"
+            },
+            {
+              "startTime": "249.500s",
+              "endTime": "249.700s",
+              "word": "что"
+            },
+            {
+              "startTime": "249.700s",
+              "endTime": "250.800s",
+              "word": "Никакой"
+            },
+            {
+              "startTime": "250.800s",
+              "endTime": "251s",
+              "word": "Ну"
+            },
+            {
+              "startTime": "251s",
+              "endTime": "253.200s",
+              "word": "да"
+            },
+            {
+              "startTime": "253.200s",
+              "endTime": "253.300s",
+              "word": "да"
+            },
+            {
+              "startTime": "253.300s",
+              "endTime": "254.400s",
+              "word": "она"
+            },
+            {
+              "startTime": "254.400s",
+              "endTime": "254.600s",
+              "word": "у"
+            },
+            {
+              "startTime": "254.600s",
+              "endTime": "254.800s",
+              "word": "вас"
+            },
+            {
+              "startTime": "254.800s",
+              "endTime": "255.100s",
+              "word": "я"
+            },
+            {
+              "startTime": "255.100s",
+              "endTime": "255.400s",
+              "word": "бачу"
+            },
+            {
+              "startTime": "255.400s",
+              "endTime": "255.700s",
+              "word": "большое"
+            },
+            {
+              "startTime": "255.700s",
+              "endTime": "255.900s",
+              "word": "дело"
+            },
+            {
+              "startTime": "255.900s",
+              "endTime": "256.200s",
+              "word": "конечно"
+            },
+            {
+              "startTime": "256.200s",
+              "endTime": "256.900s",
+              "word": "дорогой"
+            },
+            {
+              "startTime": "256.900s",
+              "endTime": "257.100s",
+              "word": "и"
+            },
+            {
+              "startTime": "257.100s",
+              "endTime": "257.700s",
+              "word": "со"
+            },
+            {
+              "startTime": "257.700s",
+              "endTime": "257.900s",
+              "word": "временем"
+            },
+            {
+              "startTime": "257.900s",
+              "endTime": "258.300s",
+              "word": "они"
+            },
+            {
+              "startTime": "258.300s",
+              "endTime": "258.500s",
+              "word": "не"
+            },
+            {
+              "startTime": "258.500s",
+              "endTime": "258.800s",
+              "word": "стали"
+            },
+            {
+              "startTime": "258.800s",
+              "endTime": "258.900s",
+              "word": "так"
+            },
+            {
+              "startTime": "258.900s",
+              "endTime": "259.300s",
+              "word": "чтобы"
+            },
+            {
+              "startTime": "259.300s",
+              "endTime": "259.600s",
+              "word": "сильно"
+            },
+            {
+              "startTime": "259.600s",
+              "endTime": "259.800s",
+              "word": "дешевле"
+            },
+            {
+              "startTime": "259.800s",
+              "endTime": "260.400s",
+              "word": "и"
+            },
+            {
+              "startTime": "260.400s",
+              "endTime": "260.700s",
+              "word": "на"
+            },
+            {
+              "startTime": "260.700s",
+              "endTime": "261.200s",
+              "word": "выставках"
+            },
+            {
+              "startTime": "261.200s",
+              "endTime": "262.200s",
+              "word": "когда"
+            },
+            {
+              "startTime": "262.200s",
+              "endTime": "262.400s",
+              "word": "на"
+            },
+            {
+              "startTime": "262.400s",
+              "endTime": "262.800s",
+              "word": "Маке"
+            },
+            {
+              "startTime": "262.800s",
+              "endTime": "263.400s",
+              "word": "попадались"
+            },
+            {
+              "startTime": "263.400s",
+              "endTime": "263.500s",
+              "word": "на"
+            },
+            {
+              "startTime": "263.500s",
+              "endTime": "263.800s",
+              "word": "них"
+            },
+            {
+              "startTime": "263.800s",
+              "endTime": "264.500s",
+              "word": "дома"
+            },
+            {
+              "startTime": "264.500s",
+              "endTime": "264.800s",
+              "word": "лежу"
+            },
+            {
+              "startTime": "264.800s",
+              "endTime": "265.300s",
+              "word": "Какая"
+            },
+            {
+              "startTime": "265.300s",
+              "endTime": "265.600s",
+              "word": "штука"
+            },
+            {
+              "startTime": "265.600s",
+              "endTime": "265.600s",
+              "word": "интересная"
+            },
+            {
+              "startTime": "265.600s",
+              "endTime": "266.700s",
+              "word": "на"
+            },
+            {
+              "startTime": "266.700s",
+              "endTime": "267s",
+              "word": "какой-то"
+            },
+            {
+              "startTime": "267s",
+              "endTime": "267.500s",
+              "word": "мотороле"
+            },
+            {
+              "startTime": "267.500s",
+              "endTime": "268.200s",
+              "word": "Таинственный"
+            },
+            {
+              "startTime": "268.200s",
+              "endTime": "268.700s",
+              "word": "сделано"
+            },
+            {
+              "startTime": "268.700s",
+              "endTime": "269.600s",
+              "word": "я"
+            },
+            {
+              "startTime": "269.600s",
+              "endTime": "269.800s",
+              "word": "вот"
+            },
+            {
+              "startTime": "269.800s",
+              "endTime": "269.900s",
+              "word": "это"
+            },
+            {
+              "startTime": "269.900s",
+              "endTime": "270.200s",
+              "word": "видел"
+            },
+            {
+              "startTime": "270.200s",
+              "endTime": "270.900s",
+              "word": "конкретный"
+            },
+            {
+              "startTime": "270.900s",
+              "endTime": "271.300s",
+              "word": "Мак"
+            },
+            {
+              "startTime": "271.300s",
+              "endTime": "271.500s",
+              "word": "на"
+            },
+            {
+              "startTime": "271.500s",
+              "endTime": "272s",
+              "word": "выставке"
+            },
+            {
+              "startTime": "272s",
+              "endTime": "272.900s",
+              "word": "и"
+            },
+            {
+              "startTime": "272.900s",
+              "endTime": "274.100s",
+              "word": "выглядела"
+            },
+            {
+              "startTime": "274.100s",
+              "endTime": "274.300s",
+              "word": "как"
+            },
+            {
+              "startTime": "274.300s",
+              "endTime": "274.900s",
+              "word": "какие-то"
+            },
+            {
+              "startTime": "274.900s",
+              "endTime": "275.700s",
+              "word": "инопланетяне"
+            },
+            {
+              "startTime": "275.700s",
+              "endTime": "276.900s",
+              "word": "какие-то"
+            },
+            {
+              "startTime": "276.900s",
+              "endTime": "277.300s",
+              "word": "продукты"
+            },
+            {
+              "startTime": "277.300s",
+              "endTime": "277.700s",
+              "word": "из"
+            },
+            {
+              "startTime": "277.700s",
+              "endTime": "278.200s",
+              "word": "параллельной"
+            },
+            {
+              "startTime": "278.200s",
+              "endTime": "278.500s",
+              "word": "вселенной"
+            },
+            {
+              "startTime": "278.500s",
+              "endTime": "280s",
+              "word": "настолько"
+            },
+            {
+              "startTime": "280s",
+              "endTime": "280.100s",
+              "word": "же"
+            },
+            {
+              "startTime": "280.100s",
+              "endTime": "280.500s",
+              "word": "далеко"
+            },
+            {
+              "startTime": "280.500s",
+              "endTime": "281s",
+              "word": "казалось"
+            },
+            {
+              "startTime": "281s",
+              "endTime": "281.300s",
+              "word": "От"
+            },
+            {
+              "startTime": "281.300s",
+              "endTime": "281.700s",
+              "word": "нас"
+            },
+            {
+              "startTime": "281.700s",
+              "endTime": "281.800s",
+              "word": "от"
+            },
+            {
+              "startTime": "281.800s",
+              "endTime": "281.900s",
+              "word": "всех"
+            },
+            {
+              "startTime": "281.900s",
+              "endTime": "282.200s",
+              "word": "А"
+            },
+            {
+              "startTime": "282.200s",
+              "endTime": "282.400s",
+              "word": "вот"
+            },
+            {
+              "startTime": "282.400s",
+              "endTime": "282.900s",
+              "word": "смотрите"
+            },
+            {
+              "startTime": "282.900s",
+              "endTime": "283.100s",
+              "word": "мы"
+            },
+            {
+              "startTime": "283.100s",
+              "endTime": "283.700s",
+              "word": "привыкли"
+            },
+            {
+              "startTime": "283.700s",
+              "endTime": "284s",
+              "word": "и"
+            },
+            {
+              "startTime": "284s",
+              "endTime": "284.200s",
+              "word": "на"
+            },
+            {
+              "startTime": "284.200s",
+              "endTime": "284.400s",
+              "word": "этом"
+            },
+            {
+              "startTime": "284.400s",
+              "endTime": "285.100s",
+              "word": "инопланетным"
+            },
+            {
+              "startTime": "285.100s",
+              "endTime": "285.500s",
+              "word": "железе"
+            },
+            {
+              "startTime": "285.500s",
+              "endTime": "285.900s",
+              "word": "живём"
+            },
+            {
+              "startTime": "285.900s",
+              "endTime": "286.500s",
+              "word": "и"
+            },
+            {
+              "startTime": "286.500s",
+              "endTime": "287s",
+              "word": "даже"
+            },
+            {
+              "startTime": "287s",
+              "endTime": "287.500s",
+              "word": "мучаемся"
+            },
+            {
+              "startTime": "287.500s",
+              "endTime": "288.700s",
+              "word": "вспоминая"
+            },
+            {
+              "startTime": "288.700s",
+              "endTime": "289s",
+              "word": "наши"
+            },
+            {
+              "startTime": "289s",
+              "endTime": "289.300s",
+              "word": "мучения"
+            },
+            {
+              "startTime": "289.300s",
+              "endTime": "289.500s",
+              "word": "в"
+            },
+            {
+              "startTime": "289.500s",
+              "endTime": "289.900s",
+              "word": "прошлый"
+            },
+            {
+              "startTime": "289.900s",
+              "endTime": "290.400s",
+              "word": "подкаст"
+            },
+            {
+              "startTime": "290.400s",
+              "endTime": "290.600s",
+              "word": "со"
+            },
+            {
+              "startTime": "290.600s",
+              "endTime": "291.100s",
+              "word": "звуком"
+            },
+            {
+              "startTime": "291.100s",
+              "endTime": "291.700s",
+              "word": "Мы"
+            },
+            {
+              "startTime": "291.700s",
+              "endTime": "292.100s",
+              "word": "учимся"
+            },
+            {
+              "startTime": "292.100s",
+              "endTime": "292.300s",
+              "word": "во"
+            },
+            {
+              "startTime": "292.300s",
+              "endTime": "292.600s",
+              "word": "всём"
+            },
+            {
+              "startTime": "292.600s",
+              "endTime": "292.900s",
+              "word": "и"
+            },
+            {
+              "startTime": "292.900s",
+              "endTime": "293.500s",
+              "word": "ничего"
+            },
+            {
+              "startTime": "293.500s",
+              "endTime": "294s",
+              "word": "продолжаем"
+            },
+            {
+              "startTime": "294s",
+              "endTime": "294.200s",
+              "word": "есть"
+            },
+            {
+              "startTime": "294.200s",
+              "endTime": "296s",
+              "word": "слоган"
+            },
+            {
+              "startTime": "296s",
+              "endTime": "296.800s",
+              "word": "типа"
+            },
+            {
+              "startTime": "296.800s",
+              "endTime": "297.200s",
+              "word": "никогда"
+            },
+            {
+              "startTime": "297.200s",
+              "endTime": "297.300s",
+              "word": "не"
+            },
+            {
+              "startTime": "297.300s",
+              "endTime": "297.800s",
+              "word": "доверяете"
+            },
+            {
+              "startTime": "297.800s",
+              "endTime": "297.900s",
+              "word": "компьютеру"
+            },
+            {
+              "startTime": "297.900s",
+              "endTime": "298.700s",
+              "word": "которые"
+            },
+            {
+              "startTime": "298.700s",
+              "endTime": "298.800s",
+              "word": "вы"
+            },
+            {
+              "startTime": "298.800s",
+              "endTime": "298.900s",
+              "word": "не"
+            },
+            {
+              "startTime": "298.900s",
+              "endTime": "299.200s",
+              "word": "можете"
+            },
+            {
+              "startTime": "299.200s",
+              "endTime": "299.600s",
+              "word": "поднять"
+            }
+          ]
+        }
+      ],
+      "languageCode": "ru-ru"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": "вот такой праздник Бог ну скажем какой-нибудь алаверды и мы пойдём на следующую тему",
+          "confidence": 0.8059030175209045,
+          "words": [
+            {
+              "startTime": "299.800s",
+              "endTime": "303.400s",
+              "word": "вот"
+            },
+            {
+              "startTime": "303.400s",
+              "endTime": "303.600s",
+              "word": "такой"
+            },
+            {
+              "startTime": "303.600s",
+              "endTime": "303.900s",
+              "word": "праздник"
+            },
+            {
+              "startTime": "303.900s",
+              "endTime": "305.200s",
+              "word": "Бог"
+            },
+            {
+              "startTime": "305.200s",
+              "endTime": "305.400s",
+              "word": "ну"
+            },
+            {
+              "startTime": "305.400s",
+              "endTime": "305.700s",
+              "word": "скажем"
+            },
+            {
+              "startTime": "305.700s",
+              "endTime": "306.100s",
+              "word": "какой-нибудь"
+            },
+            {
+              "startTime": "306.100s",
+              "endTime": "306.600s",
+              "word": "алаверды"
+            },
+            {
+              "startTime": "306.600s",
+              "endTime": "306.700s",
+              "word": "и"
+            },
+            {
+              "startTime": "306.700s",
+              "endTime": "306.800s",
+              "word": "мы"
+            },
+            {
+              "startTime": "306.800s",
+              "endTime": "307.200s",
+              "word": "пойдём"
+            },
+            {
+              "startTime": "307.200s",
+              "endTime": "307.200s",
+              "word": "на"
+            },
+            {
+              "startTime": "307.200s",
+              "endTime": "307.600s",
+              "word": "следующую"
+            },
+            {
+              "startTime": "307.600s",
+              "endTime": "307.900s",
+              "word": "тему"
+            }
+          ]
+        }
+      ],
+      "languageCode": "ru-ru"
+    },
+    {
+      "alternatives": [
+        {
+          "words": [
+            {
+              "startTime": "0s",
+              "endTime": "2.700s",
+              "word": "о'кей",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "2.700s",
+              "endTime": "3.300s",
+              "word": "О'кей",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "3.300s",
+              "endTime": "4s",
+              "word": "пирите",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "4s",
+              "endTime": "4.600s",
+              "word": "налетай",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "4.600s",
+              "endTime": "4.800s",
+              "word": "подешевело",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "4.800s",
+              "endTime": "5.600s",
+              "word": "Я",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "5.600s",
+              "endTime": "5.800s",
+              "word": "так",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "5.800s",
+              "endTime": "6.100s",
+              "word": "понимаю",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "6.100s",
+              "endTime": "6.300s",
+              "word": "тех",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "6.300s",
+              "endTime": "6.400s",
+              "word": "кто",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "6.400s",
+              "endTime": "6.500s",
+              "word": "уже",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "6.500s",
+              "endTime": "6.900s",
+              "word": "какие-то",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "6.900s",
+              "endTime": "7.400s",
+              "word": "парома",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "7.400s",
+              "endTime": "8s",
+              "word": "получают",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "8s",
+              "endTime": "8.300s",
+              "word": "второй",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "8.300s",
+              "endTime": "8.500s",
+              "word": "раз",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "8.500s",
+              "endTime": "8.600s",
+              "word": "они",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "8.600s",
+              "endTime": "9s",
+              "word": "дают",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "9s",
+              "endTime": "9.100s",
+              "word": "Но",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "9.100s",
+              "endTime": "9.200s",
+              "word": "это",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "9.200s",
+              "endTime": "9.400s",
+              "word": "для",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "9.400s",
+              "endTime": "9.500s",
+              "word": "новеньких",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "9.500s",
+              "endTime": "10.700s",
+              "word": "Хотя",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "10.700s",
+              "endTime": "11.100s",
+              "word": "Я",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "11.100s",
+              "endTime": "11.700s",
+              "word": "толком",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "11.700s",
+              "endTime": "11.900s",
+              "word": "не",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "11.900s",
+              "endTime": "17s",
+              "word": "мнение",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "17s",
+              "endTime": "17.300s",
+              "word": "как-то",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "17.300s",
+              "endTime": "17.800s",
+              "word": "разделились",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "17.800s",
+              "endTime": "18.200s",
+              "word": "Бога",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "18.200s",
+              "endTime": "18.700s",
+              "word": "некоторые",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "18.700s",
+              "endTime": "19s",
+              "word": "говорят",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "19s",
+              "endTime": "19.400s",
+              "word": "Муж",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "19.400s",
+              "endTime": "19.700s",
+              "word": "Куда",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "19.700s",
+              "endTime": "19.900s",
+              "word": "дели",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "19.900s",
+              "endTime": "20.300s",
+              "word": "мощное",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "20.300s",
+              "endTime": "20.600s",
+              "word": "1",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "20.600s",
+              "endTime": "21.900s",
+              "word": "Я",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "21.900s",
+              "endTime": "22.400s",
+              "word": "удивляюсь",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "22.400s",
+              "endTime": "22.700s",
+              "word": "люди",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "22.700s",
+              "endTime": "22.800s",
+              "word": "А",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "22.800s",
+              "endTime": "23.200s",
+              "word": "зачем",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "23.200s",
+              "endTime": "23.500s",
+              "word": "вообще",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "23.500s",
+              "endTime": "23.700s",
+              "word": "вам",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "23.700s",
+              "endTime": "24.800s",
+              "word": "включаемые",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "24.800s",
+              "endTime": "25.300s",
+              "word": "слова",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "25.300s",
+              "endTime": "25.700s",
+              "word": "говорим",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "25.700s",
+              "endTime": "26s",
+              "word": "Если",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "26s",
+              "endTime": "26.100s",
+              "word": "вы",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "26.100s",
+              "endTime": "26.200s",
+              "word": "их",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "26.200s",
+              "endTime": "26.400s",
+              "word": "всё",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "26.400s",
+              "endTime": "26.400s",
+              "word": "равно",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "26.400s",
+              "endTime": "26.600s",
+              "word": "не",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "26.600s",
+              "endTime": "27.100s",
+              "word": "слышите",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "27.100s",
+              "endTime": "28.100s",
+              "word": "не",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "28.100s",
+              "endTime": "28.600s",
+              "word": "ковырять",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "28.600s",
+              "endTime": "29.800s",
+              "word": "вопрос",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "29.800s",
+              "endTime": "30.100s",
+              "word": "нашей",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "30.100s",
+              "endTime": "30.400s",
+              "word": "жизни",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "30.400s",
+              "endTime": "30.700s",
+              "word": "Да",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "30.700s",
+              "endTime": "31.500s",
+              "word": "зачем",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "31.500s",
+              "endTime": "31.600s",
+              "word": "мы",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "31.600s",
+              "endTime": "31.700s",
+              "word": "говорим",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "31.700s",
+              "endTime": "32.400s",
+              "word": "слова",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "32.400s",
+              "endTime": "32.600s",
+              "word": "если",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "32.600s",
+              "endTime": "32.700s",
+              "word": "вы",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "32.700s",
+              "endTime": "32.900s",
+              "word": "не",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "32.900s",
+              "endTime": "33.200s",
+              "word": "слушаете",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "33.200s",
+              "endTime": "35.700s",
+              "word": "философские",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "35.700s",
+              "endTime": "36.500s",
+              "word": "вопросы",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "36.500s",
+              "endTime": "38.200s",
+              "word": "Ну",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "38.200s",
+              "endTime": "38.400s",
+              "word": "что",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "38.400s",
+              "endTime": "38.800s",
+              "word": "Давайте",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "38.800s",
+              "endTime": "39.200s",
+              "word": "пойдем",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "39.200s",
+              "endTime": "39.300s",
+              "word": "по",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "39.300s",
+              "endTime": "39.600s",
+              "word": "нашим",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "39.600s",
+              "endTime": "39.800s",
+              "word": "телом",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "39.800s",
+              "endTime": "40.100s",
+              "word": "после",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "40.100s",
+              "endTime": "40.300s",
+              "word": "того",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "40.300s",
+              "endTime": "40.500s",
+              "word": "как",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "40.500s",
+              "endTime": "40.600s",
+              "word": "из",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "40.600s",
+              "endTime": "40.900s",
+              "word": "рекламы",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "40.900s",
+              "endTime": "41.500s",
+              "word": "мы",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "41.500s",
+              "endTime": "42.100s",
+              "word": "разобрались",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "42.100s",
+              "endTime": "42.200s",
+              "word": "и",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "42.200s",
+              "endTime": "42.600s",
+              "word": "всё",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "42.600s",
+              "endTime": "42.900s",
+              "word": "всем",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "42.900s",
+              "endTime": "43.400s",
+              "word": "понятно",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "43.400s",
+              "endTime": "43.600s",
+              "word": "у",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "43.600s",
+              "endTime": "43.700s",
+              "word": "нас",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "43.700s",
+              "endTime": "44.800s",
+              "word": "начнём",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "44.800s",
+              "endTime": "44.900s",
+              "word": "с",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "44.900s",
+              "endTime": "45.400s",
+              "word": "праздника",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "45.400s",
+              "endTime": "45.900s",
+              "word": "36",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "45.900s",
+              "endTime": "47.300s",
+              "word": "36",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "47.300s",
+              "endTime": "47.600s",
+              "word": "лет",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "47.600s",
+              "endTime": "47.900s",
+              "word": "назад",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "47.900s",
+              "endTime": "49.100s",
+              "word": "впервые",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "49.100s",
+              "endTime": "50.300s",
+              "word": "появился",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "50.300s",
+              "endTime": "52.100s",
+              "word": "появился",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "52.100s",
+              "endTime": "52.200s",
+              "word": "не",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "52.200s",
+              "endTime": "52.600s",
+              "word": "появился",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "52.600s",
+              "endTime": "52.800s",
+              "word": "на",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "52.800s",
+              "endTime": "53s",
+              "word": "первый",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "53s",
+              "endTime": "53.300s",
+              "word": "раз",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "53.300s",
+              "endTime": "53.500s",
+              "word": "его",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "53.500s",
+              "endTime": "54.300s",
+              "word": "представили",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "54.300s",
+              "endTime": "54.600s",
+              "word": "общественности",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "54.600s",
+              "endTime": "57.900s",
+              "word": "помнишь",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "57.900s",
+              "endTime": "58.100s",
+              "word": "это",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "58.100s",
+              "endTime": "58.400s",
+              "word": "Бог",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "58.400s",
+              "endTime": "58.800s",
+              "word": "как",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "58.800s",
+              "endTime": "59.100s",
+              "word": "мы",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "59.100s",
+              "endTime": "59.200s",
+              "word": "с",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "59.200s",
+              "endTime": "59.200s",
+              "word": "тобой",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "59.200s",
+              "endTime": "59.600s",
+              "word": "ходили",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "59.900s",
+              "endTime": "60.600s",
+              "word": "батут",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "60.600s",
+              "endTime": "61.300s",
+              "word": "Стив",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "61.300s",
+              "endTime": "61.500s",
+              "word": "Джобс",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "61.500s",
+              "endTime": "62s",
+              "word": "Макеева",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "62s",
+              "endTime": "62.400s",
+              "word": "которого",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "62.400s",
+              "endTime": "64.100s",
+              "word": "на",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "64.100s",
+              "endTime": "64.600s",
+              "word": "столе",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "64.600s",
+              "endTime": "64.700s",
+              "word": "Mac",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "64.700s",
+              "endTime": "65.300s",
+              "word": "стоит",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "65.300s",
+              "endTime": "66.900s",
+              "word": "как",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "66.900s",
+              "endTime": "67.200s",
+              "word": "сейчас",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "67.200s",
+              "endTime": "67.500s",
+              "word": "дела",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "67.500s",
+              "endTime": "68s",
+              "word": "было",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "68s",
+              "endTime": "69.200s",
+              "word": "помню",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "69.200s",
+              "endTime": "69.900s",
+              "word": "езжай",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "69.900s",
+              "endTime": "70.200s",
+              "word": "обратно",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "70.200s",
+              "endTime": "71s",
+              "word": "паяльник",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "71s",
+              "endTime": "71.100s",
+              "word": "нужен",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "71.100s",
+              "endTime": "71.500s",
+              "word": "был",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "71.500s",
+              "endTime": "71.900s",
+              "word": "Напомни",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "71.900s",
+              "endTime": "74.500s",
+              "word": "Расскажите",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "74.500s",
+              "endTime": "74.600s",
+              "word": "я",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "74.600s",
+              "endTime": "74.800s",
+              "word": "эту",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "74.800s",
+              "endTime": "75s",
+              "word": "статью",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "75s",
+              "endTime": "75.200s",
+              "word": "не",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "75.200s",
+              "endTime": "75.500s",
+              "word": "читал",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "75.500s",
+              "endTime": "75.800s",
+              "word": "Какой",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "75.800s",
+              "endTime": "76.100s",
+              "word": "паяльник",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "76.100s",
+              "endTime": "76.500s",
+              "word": "он",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "76.500s",
+              "endTime": "77.200s",
+              "word": "красивенький",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "77.200s",
+              "endTime": "77.300s",
+              "word": "так",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "77.300s",
+              "endTime": "77.400s",
+              "word": "вот",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "77.400s",
+              "endTime": "77.600s",
+              "word": "на",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "77.600s",
+              "endTime": "78.200s",
+              "word": "картинках",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "78.200s",
+              "endTime": "78.700s",
+              "word": "нарисован",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "78.700s",
+              "endTime": "79.100s",
+              "word": "Кто",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "79.100s",
+              "endTime": "79.200s",
+              "word": "кто",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "79.200s",
+              "endTime": "79.600s",
+              "word": "к",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "79.600s",
+              "endTime": "79.900s",
+              "word": "кому",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "79.900s",
+              "endTime": "80.500s",
+              "word": "паять",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "80.500s",
+              "endTime": "83.200s",
+              "word": "Ну",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "83.200s",
+              "endTime": "84.900s",
+              "word": "макинтоши",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "84.900s",
+              "endTime": "85.600s",
+              "word": "в",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "85.600s",
+              "endTime": "85.900s",
+              "word": "смысле",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "85.900s",
+              "endTime": "86.500s",
+              "word": "первые",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "86.500s",
+              "endTime": "87.100s",
+              "word": "компьютеры",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "87.100s",
+              "endTime": "87.300s",
+              "word": "Apple",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "87.300s",
+              "endTime": "87.700s",
+              "word": "не",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "87.700s",
+              "endTime": "88.100s",
+              "word": "эти",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "88.100s",
+              "endTime": "88.400s",
+              "word": "которые",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "88.400s",
+              "endTime": "88.500s",
+              "word": "ты",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "88.500s",
+              "endTime": "88.700s",
+              "word": "сейчас",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "88.700s",
+              "endTime": "89s",
+              "word": "видишь",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "89s",
+              "endTime": "89s",
+              "word": "на",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "89s",
+              "endTime": "89.400s",
+              "word": "картинке",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "89.400s",
+              "endTime": "89.900s",
+              "word": "а",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "89.900s",
+              "endTime": "90.200s",
+              "word": "ты",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "90.200s",
+              "endTime": "90.500s",
+              "word": "тоже",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "90.500s",
+              "endTime": "91.200s",
+              "word": "Антош",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "91.200s",
+              "endTime": "92.200s",
+              "word": "Да",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "92.200s",
+              "endTime": "93.200s",
+              "word": "этот",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "93.200s",
+              "endTime": "93.500s",
+              "word": "компьютер",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "93.500s",
+              "endTime": "93.800s",
+              "word": "называется",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "93.800s",
+              "endTime": "94.100s",
+              "word": "не",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "94.100s",
+              "endTime": "94.400s",
+              "word": "Apple",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "94.400s",
+              "endTime": "94.700s",
+              "word": "Макинтош",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "94.700s",
+              "endTime": "96.800s",
+              "word": "первые",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "96.800s",
+              "endTime": "97.300s",
+              "word": "компьютеры",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "97.300s",
+              "endTime": "97.500s",
+              "word": "Apple",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "97.500s",
+              "endTime": "98.100s",
+              "word": "Это",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "98.100s",
+              "endTime": "98.300s",
+              "word": "был",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "98.300s",
+              "endTime": "98.900s",
+              "word": "конструктор",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "98.900s",
+              "endTime": "99s",
+              "word": "для",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "99s",
+              "endTime": "99.100s",
+              "word": "сборки",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "99.100s",
+              "endTime": "100.200s",
+              "word": "с",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "100.200s",
+              "endTime": "100.600s",
+              "word": "помощью",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "100.600s",
+              "endTime": "100.900s",
+              "word": "паяльника",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "100.900s",
+              "endTime": "102.600s",
+              "word": "он",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "102.600s",
+              "endTime": "103.100s",
+              "word": "назывался",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "103.100s",
+              "endTime": "103.400s",
+              "word": "этого",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "103.400s",
+              "endTime": "103.800s",
+              "word": "надо",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "103.800s",
+              "endTime": "104s",
+              "word": "и",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "104s",
+              "endTime": "104s",
+              "word": "он",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "104s",
+              "endTime": "104.300s",
+              "word": "был",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "104.300s",
+              "endTime": "104.400s",
+              "word": "очень",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "104.400s",
+              "endTime": "104.900s",
+              "word": "красивенький",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "104.900s",
+              "endTime": "106.400s",
+              "word": "Обратите",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "106.400s",
+              "endTime": "107s",
+              "word": "внимание",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "107s",
+              "endTime": "107s",
+              "word": "что",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "107s",
+              "endTime": "107.600s",
+              "word": "у",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "107.600s",
+              "endTime": "107.900s",
+              "word": "это",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "107.900s",
+              "endTime": "108.500s",
+              "word": "компьютер",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "108.500s",
+              "endTime": "108.800s",
+              "word": "Apple",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "108.800s",
+              "endTime": "110.200s",
+              "word": "этапом",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "110.200s",
+              "endTime": "110.400s",
+              "word": "один",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "110.400s",
+              "endTime": "110.500s",
+              "word": "из",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "110.500s",
+              "endTime": "110.800s",
+              "word": "первых",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "110.800s",
+              "endTime": "111.400s",
+              "word": "компьютеров",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "111.400s",
+              "endTime": "111.500s",
+              "word": "у",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "111.500s",
+              "endTime": "112s",
+              "word": "которого",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "112s",
+              "endTime": "112.500s",
+              "word": "появился",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "112.500s",
+              "endTime": "112.800s",
+              "word": "вот",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "112.800s",
+              "endTime": "113s",
+              "word": "этот",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "113s",
+              "endTime": "113.400s",
+              "word": "цветов",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "113.400s",
+              "endTime": "113.500s",
+              "word": "и",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "113.500s",
+              "endTime": "113.600s",
+              "word": "логотипов",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "113.600s",
+              "endTime": "115.500s",
+              "word": "такой",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "115.500s",
+              "endTime": "116.400s",
+              "word": "яблочко",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "116.400s",
+              "endTime": "118.100s",
+              "word": "А",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "118.100s",
+              "endTime": "118.600s",
+              "word": "если",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "118.600s",
+              "endTime": "118.800s",
+              "word": "раньше",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "118.800s",
+              "endTime": "119.100s",
+              "word": "их",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "119.100s",
+              "endTime": "119.200s",
+              "word": "не",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "119.200s",
+              "endTime": "119.600s",
+              "word": "было-то",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "119.900s",
+              "endTime": "122s",
+              "word": "как",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "122s",
+              "endTime": "122.400s",
+              "word": "рождает",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "122.400s",
+              "endTime": "122.600s",
+              "word": "что",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "122.600s",
+              "endTime": "122.700s",
+              "word": "они",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "122.700s",
+              "endTime": "123.200s",
+              "word": "могу",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "123.200s",
+              "endTime": "123.400s",
+              "word": "раньше",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "123.400s",
+              "endTime": "123.900s",
+              "word": "появится",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "123.900s",
+              "endTime": "124.300s",
+              "word": "логотип",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "124.300s",
+              "endTime": "124.800s",
+              "word": "или",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "124.800s",
+              "endTime": "125.300s",
+              "word": "что-то",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "125.300s",
+              "endTime": "125.600s",
+              "word": "другое",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "125.600s",
+              "endTime": "126.100s",
+              "word": "производили",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "126.100s",
+              "endTime": "126.700s",
+              "word": "нет",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "126.700s",
+              "endTime": "127s",
+              "word": "до",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "127s",
+              "endTime": "127.100s",
+              "word": "этого",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "127.100s",
+              "endTime": "127.800s",
+              "word": "логотип",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "127.800s",
+              "endTime": "128s",
+              "word": "был",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "128s",
+              "endTime": "128.700s",
+              "word": "чёрно-белый",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "128.700s",
+              "endTime": "129.200s",
+              "word": "такое",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "129.200s",
+              "endTime": "129.500s",
+              "word": "видеть",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "129.500s",
+              "endTime": "130s",
+              "word": "чёрного",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "130s",
+              "endTime": "131s",
+              "word": "яблочко.",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "131s",
+              "endTime": "131.400s",
+              "word": "просто",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "131.400s",
+              "endTime": "131.900s",
+              "word": "чёрно-белый",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "131.900s",
+              "endTime": "132.800s",
+              "word": "А",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "132.800s",
+              "endTime": "133.400s",
+              "word": "ещё",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "133.400s",
+              "endTime": "133.600s",
+              "word": "до",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "133.600s",
+              "endTime": "133.900s",
+              "word": "этого",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "133.900s",
+              "endTime": "134.100s",
+              "word": "был",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "134.100s",
+              "endTime": "134.500s",
+              "word": "супер",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "134.500s",
+              "endTime": "135.200s",
+              "word": "графический",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "135.200s",
+              "endTime": "135.400s",
+              "word": "такое",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "135.400s",
+              "endTime": "137.100s",
+              "word": "Логотип",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "137.100s",
+              "endTime": "137.300s",
+              "word": "в",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "137.300s",
+              "endTime": "137.700s",
+              "word": "стиле",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "137.700s",
+              "endTime": "139.100s",
+              "word": "гравюры",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "139.100s",
+              "endTime": "139.500s",
+              "word": "на",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "139.500s",
+              "endTime": "140.200s",
+              "word": "Apple",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "140.200s",
+              "endTime": "140.500s",
+              "word": "ты",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "140.500s",
+              "endTime": "140.800s",
+              "word": "видел",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "140.800s",
+              "endTime": "140.900s",
+              "word": "его",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "140.900s",
+              "endTime": "144.500s",
+              "word": "там",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "144.500s",
+              "endTime": "145s",
+              "word": "нет",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "145s",
+              "endTime": "145.200s",
+              "word": "он",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "145.200s",
+              "endTime": "145.400s",
+              "word": "просто",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "145.400s",
+              "endTime": "145.800s",
+              "word": "сидит",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "145.800s",
+              "endTime": "146.200s",
+              "word": "правильно",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "146.200s",
+              "endTime": "146.300s",
+              "word": "вот",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "146.300s",
+              "endTime": "146.800s",
+              "word": "которая",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "146.800s",
+              "endTime": "147.300s",
+              "word": "самый",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "147.300s",
+              "endTime": "147.500s",
+              "word": "самый",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "147.500s",
+              "endTime": "147.900s",
+              "word": "старый",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "147.900s",
+              "endTime": "149.100s",
+              "word": "А",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "149.100s",
+              "endTime": "149.600s",
+              "word": "вот",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "149.600s",
+              "endTime": "149.700s",
+              "word": "это",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "149.700s",
+              "endTime": "149.900s",
+              "word": "значит",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "149.900s",
+              "endTime": "150.600s",
+              "word": "балалайка",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "150.600s",
+              "endTime": "151s",
+              "word": "край",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "151s",
+              "endTime": "151.100s",
+              "word": "мы",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "151.100s",
+              "endTime": "151.700s",
+              "word": "говорим",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "151.700s",
+              "endTime": "152s",
+              "word": "этот",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "152s",
+              "endTime": "152.800s",
+              "word": "первый",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "152.800s",
+              "endTime": "153.100s",
+              "word": "маг",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "153.100s",
+              "endTime": "153.900s",
+              "word": "он",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "153.900s",
+              "endTime": "154.500s",
+              "word": "стоил",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "154.500s",
+              "endTime": "154.800s",
+              "word": "но",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "154.800s",
+              "endTime": "155.300s",
+              "word": "реально",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "155.300s",
+              "endTime": "155.500s",
+              "word": "я",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "155.500s",
+              "endTime": "155.900s",
+              "word": "вся",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "155.900s",
+              "endTime": "156.300s",
+              "word": "в",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "156.300s",
+              "endTime": "156.800s",
+              "word": "молодости",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "156.800s",
+              "endTime": "157.300s",
+              "word": "узнал",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "157.300s",
+              "endTime": "157.500s",
+              "word": "что",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "157.500s",
+              "endTime": "157.700s",
+              "word": "есть",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "157.700s",
+              "endTime": "158s",
+              "word": "такие",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "158s",
+              "endTime": "158.300s",
+              "word": "компьютеры",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "158.300s",
+              "endTime": "159s",
+              "word": "для",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "159s",
+              "endTime": "159.300s",
+              "word": "очень",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "159.300s",
+              "endTime": "159.500s",
+              "word": "богатых",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "159.500s",
+              "endTime": "160.400s",
+              "word": "называется",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "160.400s",
+              "endTime": "160.700s",
+              "word": "маки",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "160.700s",
+              "endTime": "162.300s",
+              "word": "макинтоши",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "162.300s",
+              "endTime": "162.400s",
+              "word": "и",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "162.400s",
+              "endTime": "162.700s",
+              "word": "стоят",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "162.700s",
+              "endTime": "162.900s",
+              "word": "они",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "162.900s",
+              "endTime": "163.300s",
+              "word": "конских",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "163.300s",
+              "endTime": "163.600s",
+              "word": "денег",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "163.600s",
+              "endTime": "163.900s",
+              "word": "этот",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "163.900s",
+              "endTime": "164.200s",
+              "word": "стол",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "164.200s",
+              "endTime": "165.300s",
+              "word": "2502",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "165.300s",
+              "endTime": "166.300s",
+              "word": "495",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "166.300s",
+              "endTime": "167.200s",
+              "word": "2500",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "167.200s",
+              "endTime": "167.300s",
+              "word": "по",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "167.300s",
+              "endTime": "167.800s",
+              "word": "ценам",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "167.800s",
+              "endTime": "169.500s",
+              "word": "84",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "169.500s",
+              "endTime": "169.900s",
+              "word": "года",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "169.900s",
+              "endTime": "170.200s",
+              "word": "это",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "170.200s",
+              "endTime": "170.500s",
+              "word": "это",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "170.500s",
+              "endTime": "170.700s",
+              "word": "прямо",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "170.700s",
+              "endTime": "171.700s",
+              "word": "что-то",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "171.700s",
+              "endTime": "172.200s",
+              "word": "особенного",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "172.200s",
+              "endTime": "173.600s",
+              "word": "Ну",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "173.600s",
+              "endTime": "173.800s",
+              "word": "нет",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "173.800s",
+              "endTime": "174.100s",
+              "word": "по-моему",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "174.100s",
+              "endTime": "174.600s",
+              "word": "это",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "174.600s",
+              "endTime": "174.800s",
+              "word": "не",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "174.800s",
+              "endTime": "175.100s",
+              "word": "очень",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "175.100s",
+              "endTime": "175.400s",
+              "word": "много",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "175.400s",
+              "endTime": "176.900s",
+              "word": "Нифига",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "176.900s",
+              "endTime": "177.100s",
+              "word": "себе",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "177.100s",
+              "endTime": "177.300s",
+              "word": "не",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "177.300s",
+              "endTime": "177.500s",
+              "word": "очень",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "177.500s",
+              "endTime": "177.800s",
+              "word": "много",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "179.900s",
+              "endTime": "181.100s",
+              "word": "как",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "181.100s",
+              "endTime": "181.200s",
+              "word": "мне",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "181.200s",
+              "endTime": "181.400s",
+              "word": "очень",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "181.400s",
+              "endTime": "181.900s",
+              "word": "много",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "181.900s",
+              "endTime": "182.100s",
+              "word": "но",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "182.100s",
+              "endTime": "185.100s",
+              "word": "половиной",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "185.100s",
+              "endTime": "185.300s",
+              "word": "раза",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "185.300s",
+              "endTime": "185.500s",
+              "word": "дороже",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "185.500s",
+              "endTime": "186s",
+              "word": "Чем",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "186s",
+              "endTime": "186.600s",
+              "word": "ценны",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "186.600s",
+              "endTime": "187s",
+              "word": "которые",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "187s",
+              "endTime": "187.300s",
+              "word": "были",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "187.300s",
+              "endTime": "187.600s",
+              "word": "тогда",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "187.600s",
+              "endTime": "187.900s",
+              "word": "на",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "187.900s",
+              "endTime": "188.900s",
+              "word": "окружающие",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "188.900s",
+              "endTime": "189.700s",
+              "word": "писюльки",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "189.700s",
+              "endTime": "190s",
+              "word": "или",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "190s",
+              "endTime": "190.200s",
+              "word": "что",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "190.200s",
+              "endTime": "190.300s",
+              "word": "там",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "190.300s",
+              "endTime": "190.400s",
+              "word": "было",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "190.400s",
+              "endTime": "190.800s",
+              "word": "вместо",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "190.800s",
+              "endTime": "191.300s",
+              "word": "пиздюков",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "191.300s",
+              "endTime": "192.500s",
+              "word": "по",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "192.500s",
+              "endTime": "192.900s",
+              "word": "ценам",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "192.900s",
+              "endTime": "193s",
+              "word": "в",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "193s",
+              "endTime": "193.700s",
+              "word": "восьмидесятых",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "193.700s",
+              "endTime": "193.900s",
+              "word": "годов",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "193.900s",
+              "endTime": "195.100s",
+              "word": "по-моему",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "195.100s",
+              "endTime": "195.400s",
+              "word": "это",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "195.400s",
+              "endTime": "195.700s",
+              "word": "Ну",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "195.700s",
+              "endTime": "196s",
+              "word": "то",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "196s",
+              "endTime": "196.100s",
+              "word": "есть",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "196.100s",
+              "endTime": "197.600s",
+              "word": "более-менее",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "197.600s",
+              "endTime": "198.200s",
+              "word": "там",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "198.200s",
+              "endTime": "198.900s",
+              "word": "другие",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "198.900s",
+              "endTime": "199.100s",
+              "word": "опять",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "199.100s",
+              "endTime": "200.600s",
+              "word": "как-то",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "200.600s",
+              "endTime": "200.800s",
+              "word": "не",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "200.800s",
+              "endTime": "201.300s",
+              "word": "очень",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "201.300s",
+              "endTime": "201.600s",
+              "word": "дорого",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "201.600s",
+              "endTime": "202.400s",
+              "word": "командоры",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "202.400s",
+              "endTime": "202.800s",
+              "word": "какие-то",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "202.800s",
+              "endTime": "203.500s",
+              "word": "Мегионе",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "203.500s",
+              "endTime": "203.800s",
+              "word": "стоили",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "203.800s",
+              "endTime": "204.600s",
+              "word": "500",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "204.600s",
+              "endTime": "205s",
+              "word": "долларов",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "205s",
+              "endTime": "205.100s",
+              "word": "в",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "205.100s",
+              "endTime": "205.200s",
+              "word": "то",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "205.200s",
+              "endTime": "205.300s",
+              "word": "время",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "205.300s",
+              "endTime": "206s",
+              "word": "pa600",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "206s",
+              "endTime": "206.200s",
+              "word": "что",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "206.200s",
+              "endTime": "206.700s",
+              "word": "такое",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "206.700s",
+              "endTime": "207.900s",
+              "word": "кто",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "207.900s",
+              "endTime": "208.300s",
+              "word": "Electra",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "208.300s",
+              "endTime": "209.900s",
+              "word": "1002",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "209.900s",
+              "endTime": "210s",
+              "word": "же",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "210s",
+              "endTime": "210.200s",
+              "word": "ещё",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "210.200s",
+              "endTime": "210.600s",
+              "word": "он",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "210.600s",
+              "endTime": "210.700s",
+              "word": "же",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "210.700s",
+              "endTime": "210.900s",
+              "word": "такой",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "210.900s",
+              "endTime": "211.400s",
+              "word": "сборе",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "211.400s",
+              "endTime": "211.700s",
+              "word": "шёл",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "211.700s",
+              "endTime": "212.100s",
+              "word": "правильно",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "212.100s",
+              "endTime": "212.400s",
+              "word": "красиво",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "212.400s",
+              "endTime": "212.600s",
+              "word": "кита",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "212.600s",
+              "endTime": "213.800s",
+              "word": "монитор",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "213.800s",
+              "endTime": "214s",
+              "word": "был",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "214s",
+              "endTime": "214.300s",
+              "word": "сразу",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "214.300s",
+              "endTime": "214.500s",
+              "word": "у",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "214.500s",
+              "endTime": "214.700s",
+              "word": "него",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "214.700s",
+              "endTime": "215s",
+              "word": "в",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "215s",
+              "endTime": "215.300s",
+              "word": "общем",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "215.300s",
+              "endTime": "215.400s",
+              "word": "всё",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "215.400s",
+              "endTime": "215.800s",
+              "word": "сразу",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "215.800s",
+              "endTime": "216.700s",
+              "word": "подарочная",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "216.700s",
+              "endTime": "217s",
+              "word": "коробка",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "217s",
+              "endTime": "217.200s",
+              "word": "только",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "217.200s",
+              "endTime": "217.700s",
+              "word": "половина",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "217.700s",
+              "endTime": "218s",
+              "word": "блок",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "218s",
+              "endTime": "218.100s",
+              "word": "там",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "218.100s",
+              "endTime": "218.600s",
+              "word": "подключать",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "218.600s",
+              "endTime": "218.700s",
+              "word": "к",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "218.700s",
+              "endTime": "218.900s",
+              "word": "этим",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "218.900s",
+              "endTime": "219.400s",
+              "word": "к",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "219.400s",
+              "endTime": "220.200s",
+              "word": "телевизору",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "220.200s",
+              "endTime": "220.500s",
+              "word": "Supra",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "220.500s",
+              "endTime": "220.700s",
+              "word": "через",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "220.700s",
+              "endTime": "222.200s",
+              "word": "что",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "222.200s",
+              "endTime": "222.500s",
+              "word": "ты",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "222.500s",
+              "endTime": "222.800s",
+              "word": "просто",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "222.800s",
+              "endTime": "223s",
+              "word": "скажи",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "223s",
+              "endTime": "223.200s",
+              "word": "всё",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "223.200s",
+              "endTime": "223.500s",
+              "word": "покупал",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "223.500s",
+              "endTime": "223.700s",
+              "word": "всё",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "223.700s",
+              "endTime": "224s",
+              "word": "сразу",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "224s",
+              "endTime": "224.900s",
+              "word": "ава",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "224.900s",
+              "endTime": "225.300s",
+              "word": "заценили",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "225.300s",
+              "endTime": "225.500s",
+              "word": "как",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "225.500s",
+              "endTime": "225.900s",
+              "word": "классно",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "225.900s",
+              "endTime": "226.100s",
+              "word": "какой",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "226.100s",
+              "endTime": "226.500s",
+              "word": "sales",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "226.500s",
+              "endTime": "226.800s",
+              "word": "pitch",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "226.800s",
+              "endTime": "226.800s",
+              "word": "у",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "226.800s",
+              "endTime": "227.100s",
+              "word": "них",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "227.100s",
+              "endTime": "227.100s",
+              "word": "у",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "227.100s",
+              "endTime": "227.200s",
+              "word": "них",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "227.200s",
+              "endTime": "227.300s",
+              "word": "же",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "227.300s",
+              "endTime": "227.400s",
+              "word": "есть",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "227.400s",
+              "endTime": "227.700s",
+              "word": "вот",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "227.700s",
+              "endTime": "227.800s",
+              "word": "это",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "227.800s",
+              "endTime": "228.800s",
+              "word": "приставка",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "228.800s",
+              "endTime": "228.900s",
+              "word": "или",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "228.900s",
+              "endTime": "229.400s",
+              "word": "объявления",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "229.400s",
+              "endTime": "229.800s",
+              "word": "наверное",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "229.800s",
+              "endTime": "229.900s",
+              "word": "из",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "229.900s",
+              "endTime": "230.300s",
+              "word": "газеты",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "230.300s",
+              "endTime": "231.100s",
+              "word": "как",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "231.100s",
+              "endTime": "231.300s",
+              "word": "они",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "231.300s",
+              "endTime": "231.900s",
+              "word": "анонсировали",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "231.900s",
+              "endTime": "232.200s",
+              "word": "этот",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "232.200s",
+              "endTime": "232.500s",
+              "word": "маг",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "232.500s",
+              "endTime": "232.900s",
+              "word": "и",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "232.900s",
+              "endTime": "233.900s",
+              "word": "там",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "233.900s",
+              "endTime": "234.100s",
+              "word": "есть",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "234.100s",
+              "endTime": "234.200s",
+              "word": "ли",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "234.200s",
+              "endTime": "234.300s",
+              "word": "в",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "234.300s",
+              "endTime": "234.600s",
+              "word": "1С",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "234.600s",
+              "endTime": "235.600s",
+              "word": "235",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "235.600s",
+              "endTime": "236s",
+              "word": "млн",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "236s",
+              "endTime": "236.300s",
+              "word": "человек",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "236.300s",
+              "endTime": "236.800s",
+              "word": "который",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "236.800s",
+              "endTime": "236.900s",
+              "word": "не",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "236.900s",
+              "endTime": "237.500s",
+              "word": "знают",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "237.500s",
+              "endTime": "237.700s",
+              "word": "как",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "237.700s",
+              "endTime": "238.300s",
+              "word": "использовать",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "238.300s",
+              "endTime": "238.900s",
+              "word": "компьютер",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "238.900s",
+              "endTime": "239.500s",
+              "word": "почему",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "239.500s",
+              "endTime": "239.800s",
+              "word": "2",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "239.800s",
+              "endTime": "240.400s",
+              "word": "опять",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "240.400s",
+              "endTime": "240.600s",
+              "word": "видимо",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "240.600s",
+              "endTime": "240.900s",
+              "word": "ставится",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "240.900s",
+              "endTime": "241.200s",
+              "word": "за",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "241.200s",
+              "endTime": "241.600s",
+              "word": "кадром",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "241.600s",
+              "endTime": "242.100s",
+              "word": "то",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "242.100s",
+              "endTime": "243.400s",
+              "word": "Используйте",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "243.400s",
+              "endTime": "243.600s",
+              "word": "Вот",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "243.600s",
+              "endTime": "243.700s",
+              "word": "это",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "243.700s",
+              "endTime": "243.900s",
+              "word": "наш",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "243.900s",
+              "endTime": "244.100s",
+              "word": "новый",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "244.100s",
+              "endTime": "244.700s",
+              "word": "Макинтош",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "244.700s",
+              "endTime": "244.800s",
+              "word": "и",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "244.800s",
+              "endTime": "245.100s",
+              "word": "там",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "245.100s",
+              "endTime": "245.300s",
+              "word": "есть",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "245.300s",
+              "endTime": "247.100s",
+              "word": "манипулятор",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "247.100s",
+              "endTime": "247.500s",
+              "word": "размером",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "247.500s",
+              "endTime": "247.700s",
+              "word": "с",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "247.700s",
+              "endTime": "248s",
+              "word": "ладонь",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "248s",
+              "endTime": "248.500s",
+              "word": "катализация",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "248.500s",
+              "endTime": "248.900s",
+              "word": "мышь",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "248.900s",
+              "endTime": "249.500s",
+              "word": "Так",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "249.500s",
+              "endTime": "249.700s",
+              "word": "что",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "249.700s",
+              "endTime": "250.800s",
+              "word": "Никакой",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "250.800s",
+              "endTime": "251s",
+              "word": "Ну",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "251s",
+              "endTime": "253.200s",
+              "word": "да",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "253.200s",
+              "endTime": "253.300s",
+              "word": "да",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "253.300s",
+              "endTime": "254.400s",
+              "word": "она",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "254.400s",
+              "endTime": "254.600s",
+              "word": "у",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "254.600s",
+              "endTime": "254.800s",
+              "word": "вас",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "254.800s",
+              "endTime": "255.100s",
+              "word": "я",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "255.100s",
+              "endTime": "255.400s",
+              "word": "бачу",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "255.400s",
+              "endTime": "255.700s",
+              "word": "большое",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "255.700s",
+              "endTime": "255.900s",
+              "word": "дело",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "255.900s",
+              "endTime": "256.200s",
+              "word": "конечно",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "256.200s",
+              "endTime": "256.900s",
+              "word": "дорогой",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "256.900s",
+              "endTime": "257.100s",
+              "word": "и",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "257.100s",
+              "endTime": "257.700s",
+              "word": "со",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "257.700s",
+              "endTime": "257.900s",
+              "word": "временем",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "257.900s",
+              "endTime": "258.300s",
+              "word": "они",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "258.300s",
+              "endTime": "258.500s",
+              "word": "не",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "258.500s",
+              "endTime": "258.800s",
+              "word": "стали",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "258.800s",
+              "endTime": "258.900s",
+              "word": "так",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "258.900s",
+              "endTime": "259.300s",
+              "word": "чтобы",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "259.300s",
+              "endTime": "259.600s",
+              "word": "сильно",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "259.600s",
+              "endTime": "259.800s",
+              "word": "дешевле",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "259.800s",
+              "endTime": "260.400s",
+              "word": "и",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "260.400s",
+              "endTime": "260.700s",
+              "word": "на",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "260.700s",
+              "endTime": "261.200s",
+              "word": "выставках",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "261.200s",
+              "endTime": "262.200s",
+              "word": "когда",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "262.200s",
+              "endTime": "262.400s",
+              "word": "на",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "262.400s",
+              "endTime": "262.800s",
+              "word": "Маке",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "262.800s",
+              "endTime": "263.400s",
+              "word": "попадались",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "263.400s",
+              "endTime": "263.500s",
+              "word": "на",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "263.500s",
+              "endTime": "263.800s",
+              "word": "них",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "263.800s",
+              "endTime": "264.500s",
+              "word": "дома",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "264.500s",
+              "endTime": "264.800s",
+              "word": "лежу",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "264.800s",
+              "endTime": "265.300s",
+              "word": "Какая",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "265.300s",
+              "endTime": "265.600s",
+              "word": "штука",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "265.600s",
+              "endTime": "265.600s",
+              "word": "интересная",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "265.600s",
+              "endTime": "266.700s",
+              "word": "на",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "266.700s",
+              "endTime": "267s",
+              "word": "какой-то",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "267s",
+              "endTime": "267.500s",
+              "word": "мотороле",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "267.500s",
+              "endTime": "268.200s",
+              "word": "Таинственный",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "268.200s",
+              "endTime": "268.700s",
+              "word": "сделано",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "268.700s",
+              "endTime": "269.600s",
+              "word": "я",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "269.600s",
+              "endTime": "269.800s",
+              "word": "вот",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "269.800s",
+              "endTime": "269.900s",
+              "word": "это",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "269.900s",
+              "endTime": "270.200s",
+              "word": "видел",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "270.200s",
+              "endTime": "270.900s",
+              "word": "конкретный",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "270.900s",
+              "endTime": "271.300s",
+              "word": "Мак",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "271.300s",
+              "endTime": "271.500s",
+              "word": "на",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "271.500s",
+              "endTime": "272s",
+              "word": "выставке",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "272s",
+              "endTime": "272.900s",
+              "word": "и",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "272.900s",
+              "endTime": "274.100s",
+              "word": "выглядела",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "274.100s",
+              "endTime": "274.300s",
+              "word": "как",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "274.300s",
+              "endTime": "274.900s",
+              "word": "какие-то",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "274.900s",
+              "endTime": "275.700s",
+              "word": "инопланетяне",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "275.700s",
+              "endTime": "276.900s",
+              "word": "какие-то",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "276.900s",
+              "endTime": "277.300s",
+              "word": "продукты",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "277.300s",
+              "endTime": "277.700s",
+              "word": "из",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "277.700s",
+              "endTime": "278.200s",
+              "word": "параллельной",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "278.200s",
+              "endTime": "278.500s",
+              "word": "вселенной",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "278.500s",
+              "endTime": "280s",
+              "word": "настолько",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "280s",
+              "endTime": "280.100s",
+              "word": "же",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "280.100s",
+              "endTime": "280.500s",
+              "word": "далеко",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "280.500s",
+              "endTime": "281s",
+              "word": "казалось",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "281s",
+              "endTime": "281.300s",
+              "word": "От",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "281.300s",
+              "endTime": "281.700s",
+              "word": "нас",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "281.700s",
+              "endTime": "281.800s",
+              "word": "от",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "281.800s",
+              "endTime": "281.900s",
+              "word": "всех",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "281.900s",
+              "endTime": "282.200s",
+              "word": "А",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "282.200s",
+              "endTime": "282.400s",
+              "word": "вот",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "282.400s",
+              "endTime": "282.900s",
+              "word": "смотрите",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "282.900s",
+              "endTime": "283.100s",
+              "word": "мы",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "283.100s",
+              "endTime": "283.700s",
+              "word": "привыкли",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "283.700s",
+              "endTime": "284s",
+              "word": "и",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "284s",
+              "endTime": "284.200s",
+              "word": "на",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "284.200s",
+              "endTime": "284.400s",
+              "word": "этом",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "284.400s",
+              "endTime": "285.100s",
+              "word": "инопланетным",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "285.100s",
+              "endTime": "285.500s",
+              "word": "железе",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "285.500s",
+              "endTime": "285.900s",
+              "word": "живём",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "285.900s",
+              "endTime": "286.500s",
+              "word": "и",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "286.500s",
+              "endTime": "287s",
+              "word": "даже",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "287s",
+              "endTime": "287.500s",
+              "word": "мучаемся",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "287.500s",
+              "endTime": "288.700s",
+              "word": "вспоминая",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "288.700s",
+              "endTime": "289s",
+              "word": "наши",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "289s",
+              "endTime": "289.300s",
+              "word": "мучения",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "289.300s",
+              "endTime": "289.500s",
+              "word": "в",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "289.500s",
+              "endTime": "289.900s",
+              "word": "прошлый",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "289.900s",
+              "endTime": "290.400s",
+              "word": "подкаст",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "290.400s",
+              "endTime": "290.600s",
+              "word": "со",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "290.600s",
+              "endTime": "291.100s",
+              "word": "звуком",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "291.100s",
+              "endTime": "291.700s",
+              "word": "Мы",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "291.700s",
+              "endTime": "292.100s",
+              "word": "учимся",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "292.100s",
+              "endTime": "292.300s",
+              "word": "во",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "292.300s",
+              "endTime": "292.600s",
+              "word": "всём",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "292.600s",
+              "endTime": "292.900s",
+              "word": "и",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "292.900s",
+              "endTime": "293.500s",
+              "word": "ничего",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "293.500s",
+              "endTime": "294s",
+              "word": "продолжаем",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "294s",
+              "endTime": "294.200s",
+              "word": "есть",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "294.200s",
+              "endTime": "296s",
+              "word": "слоган",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "296s",
+              "endTime": "296.800s",
+              "word": "типа",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "296.800s",
+              "endTime": "297.200s",
+              "word": "никогда",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "297.200s",
+              "endTime": "297.300s",
+              "word": "не",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "297.300s",
+              "endTime": "297.800s",
+              "word": "доверяете",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "297.800s",
+              "endTime": "297.900s",
+              "word": "компьютеру",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "297.900s",
+              "endTime": "298.700s",
+              "word": "которые",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "298.700s",
+              "endTime": "298.800s",
+              "word": "вы",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "298.800s",
+              "endTime": "298.900s",
+              "word": "не",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "298.900s",
+              "endTime": "299.200s",
+              "word": "можете",
+              "speakerTag": 4
+            },
+            {
+              "startTime": "299.200s",
+              "endTime": "299.600s",
+              "word": "поднять",
+              "speakerTag": 2
+            },
+            {
+              "startTime": "299.800s",
+              "endTime": "303.400s",
+              "word": "вот",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "303.400s",
+              "endTime": "303.600s",
+              "word": "такой",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "303.600s",
+              "endTime": "303.900s",
+              "word": "праздник",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "303.900s",
+              "endTime": "305.200s",
+              "word": "Бог",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "305.200s",
+              "endTime": "305.400s",
+              "word": "ну",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "305.400s",
+              "endTime": "305.700s",
+              "word": "скажем",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "305.700s",
+              "endTime": "306.100s",
+              "word": "какой-нибудь",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "306.100s",
+              "endTime": "306.600s",
+              "word": "алаверды",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "306.600s",
+              "endTime": "306.700s",
+              "word": "и",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "306.700s",
+              "endTime": "306.800s",
+              "word": "мы",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "306.800s",
+              "endTime": "307.200s",
+              "word": "пойдём",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "307.200s",
+              "endTime": "307.200s",
+              "word": "на",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "307.200s",
+              "endTime": "307.600s",
+              "word": "следующую",
+              "speakerTag": 3
+            },
+            {
+              "startTime": "307.600s",
+              "endTime": "307.900s",
+              "word": "тему",
+              "speakerTag": 3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
