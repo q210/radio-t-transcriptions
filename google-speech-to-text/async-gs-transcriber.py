@@ -61,7 +61,7 @@ def transcribe_gcs(gcs_uri: str) -> Dict[str, List[Any]]:
 
 def save_transcript(response_data, transcripts_dir: str) -> None:
     """
-    Save full Google Speech-To-Text service response and converted transcipt into `./transcripts`
+    Save converted transcipt into `./transcripts`
     """
     speakers = defaultdict(lambda: get_speaker_name().title())
 
@@ -123,9 +123,11 @@ def run(gcs_uri: str) -> None:
     transcripts_dir = os.path.join("transcripts", f"gs-{fname}-{int(dt.now().timestamp())}")
     os.mkdir(transcripts_dir)
 
+    # save full Google Speech-To-Text service response to `./transcripts/gs-<filename>-<timeastamp>/response-full.json`
     with open(os.path.join(transcripts_dir, "response-full.json"), "w", encoding="utf-8") as f:
         json.dump(response_data, f, indent=2, ensure_ascii=False)
 
+    # save transcript to `./transcripts/gs-<filename>-<timeastamp>/transcript.{index}.txt`
     save_transcript(response_data, transcripts_dir)
 
 
